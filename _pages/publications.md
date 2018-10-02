@@ -7,11 +7,15 @@ permalink: /publications/
 ---
 
 
-# Publications
+<!-- ### **Publications** -->
 
-## Highlights
+<div><h3 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h3></div>
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+<br>
+
+<!-- ### *Research Highlights*
+
+(See full list [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=AAwLfKUAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,15 +53,30 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
 
-## Full List
+<!-- ### *Full List* -->
+
+
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left" /> -->
+  <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
+  <em>{{ publi.authors }} </em><br />
+  <em>{{ publi.link.display }} </em><br />
+  {{ publi.news2 }} <br/>
+  <br/>
 
 {% endfor %}
+
+
+<!-- {% for publi in site.data.publist %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left" />
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %} -->
+
 

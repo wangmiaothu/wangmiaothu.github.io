@@ -43,7 +43,7 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-sans-serif:  "Source Sans Pro", Helvetica,  "Helvetica Neue", Lato,  Arial, sans-serif !default;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
@@ -366,12 +366,12 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #f8f8f8 !default;
+$navbar-default-bg:                #0288E5 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                #ffffff !default;
+$navbar-default-link-hover-color:          #333333 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
@@ -379,7 +379,7 @@ $navbar-default-link-disabled-color:       $gray-lighter !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
-$navbar-default-brand-color:               $navbar-default-link-hover-color !default;
+$navbar-default-brand-color:               #ffffff !default;
 $navbar-default-brand-hover-color:         $navbar-default-link-hover-color !default;
 $navbar-default-brand-hover-bg:            transparent !default;
 
@@ -777,7 +777,8 @@ $badge-bg:                    $brand-primary !default;
 //** Badge text color in active nav link
 $badge-active-color:          $link-color !default;
 //** Badge background color in active nav link
-$badge-active-bg:             #fff !default;
+$badge-active-bg:             #fff
+ !default;
 
 $badge-font-weight:           normal !default;
 $badge-line-height:           1 !default;
