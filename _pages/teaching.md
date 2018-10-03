@@ -26,11 +26,13 @@ permalink: /teaching/
 
 **Current students**
 
-* Guo-Ye Yang, undergraduate intern, Tsinghua University, started 2015 (with Shi-Min Hu)
-* Guo-Wei Yang, undergraduate intern, Tsinghua University, started 2016 (with Shi-Min Hu)
-* Run-Ze Liang, undergraduate intern, Tsinghua University, started 2018 (with Shi-Min Hu)
+* Guo-Ye Yang, undergraduate intern, Tsinghua University, started 2015 (with Prof. Shi-Min Hu)
+* Guo-Wei Yang, undergraduate intern, Tsinghua University, started 2016 (with Prof. Shi-Min Hu)
+* Run-Ze Liang, undergraduate intern, Tsinghua University, started 2018 (with Prof. Shi-Min Hu)
 
 **Alumni**
+
+As an assistant supervisor with Prof. Shi-Min Hu:
 
 * Jun-Bang Liang, undergraduate intern, Tsinghua University, 2014-2015. Currently a PhD candidate at UNC-CH, United States.
 * Jin-Kun Lin, undergraduate intern, Tsinghua University, 2016-2017. 
