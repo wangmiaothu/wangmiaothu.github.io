@@ -62,9 +62,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left" /> -->
-  <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
-  <em>{{ publi.authors }} </em><br />
-  <em>{{ publi.link.display }} </em><br />
+  <a href="{{ publi.link.url }}"><b>{{ publi.title }}</b></a> <br />
+  {{ publi.authors }}<br />
+  {{ publi.link.display }}<br />
   {{ publi.news2 }} <br/>
   <br/>
 

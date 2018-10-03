@@ -26,13 +26,13 @@ permalink: /
 
 <div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Miao Wang</b></h4></div>
 
-##### *Postdoc Researcher*
+##### Postdoc Researcher
 
-##### *Visual Computing Group*
+##### Visual Computing Group
 
-##### *Department of Computer Science and Technology*
+##### Department of Computer Science and Technology
 
-##### *Tsinghua University, Beijing*
+##### Tsinghua University, Beijing
 
 <!-- ##### *Assistant Professor*
 
