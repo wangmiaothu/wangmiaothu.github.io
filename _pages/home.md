@@ -58,7 +58,7 @@ You are welcome to read my full [CV](http://miaowang.me/CV.pdf).
 
 
 ***
-**I am looking for passionate Master students (start in 2020, full time) and Undergraduate students (intern) to work with me** [(contact me via email)](mailto:miaowang.me@gmail.com) **.**
+**I am looking for passionate undergraduate students (intern) to work with me** [(contact me via email)](mailto:miaowang.me@gmail.com) **.**
 
 ***
 
