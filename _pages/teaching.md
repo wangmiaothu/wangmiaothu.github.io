@@ -32,7 +32,7 @@ permalink: /teaching/
 
 **Alumni**
 
-Interns supervised with Prof. Shi-Min Hu:
+Interns supervised with Prof. Shi-Min Hu at Tsinghua University:
 
 * Jun-Bang Liang, undergraduate intern, Tsinghua University, 2014-2015. Currently a PhD candidate at UNC-CH, United States.
 * Jin-Kun Lin, undergraduate intern, Tsinghua University, 2016-2017. 
