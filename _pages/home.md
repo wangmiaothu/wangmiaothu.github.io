@@ -53,7 +53,7 @@ My research goals are to bridge the gap between human visual perception and medi
 * Computational cinematography
 * Deep learning-based image/video synthesis
 
-You are welcome to read my full [CV](http://miaowang.me/CV.pdf).
+[Here](http://miaowang.me/publications) are my publications, and you are welcome to read my full [CV](http://miaowang.me/CV.pdf).
 
 
 
