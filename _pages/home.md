@@ -58,7 +58,7 @@ My research goals are to bridge the gap between human visual perception and medi
 
 
 ***
-**I am looking for passionate u ndergraduate students (intern) to work with me** [(contact me via email)](mailto:miaowang.me@gmail.com) **.**
+**I am looking for passionate undergraduate students (intern) to work with me** [(contact me via email)](mailto:miaowang.me@gmail.com) **.**
 
 ***
 
