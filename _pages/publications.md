@@ -10,6 +10,7 @@ permalink: /publications/
 <!-- ### **Publications** -->
 
 <div><h3 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h3></div>
+(in reversed chronological order; ''*'' stands for corresponding author; see also my [Google Scholar](https://scholar.google.com/citations?user=AAwLfKUAAAAJ&hl=en))
 
 <br>
 
@@ -59,16 +60,24 @@ permalink: /publications/
 <!-- ### *Full List* -->
 
 
-
 {% for publi in site.data.publist %}
+
+{% if publi.year.show == 1 %}
+{% if publi.year.line == 1 %}
+<hr>
+{%endif%}
+<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
+{%endif%}
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left" /> -->
   <a href="{{ publi.link.url }}"><b>{{ publi.title }}</b></a> <br />
   {{ publi.authors }}<br />
   {{ publi.link.display }}<br />
-  {{ publi.news2 }} <br/>
-  <br/>
+  {{ publi.news2 }} <br/> 
+  
 
 {% endfor %}
+
+
 
 
 <!-- {% for publi in site.data.publist %}

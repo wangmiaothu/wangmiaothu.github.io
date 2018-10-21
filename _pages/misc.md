@@ -7,10 +7,27 @@ permalink: /misc/
 ---
 
 <div><h3 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Miscellaneous</b></h3></div>
+[[Collaborators](#Collaborators)]
 
 <br/>
 
-### _under-construction_
+<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Collaborators</b></h4></div>
+
+Here are my lovely collaborators (and their websites):
+
+* [Prof. Shi-Min Hu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/prof_hu.htm)
+* [Prof. Kun Xu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~kun)
+* Prof. Song-Hai Zhang @ Tsinghua University
+* [Prof. Ariel Shamir @ IDC Israel](http://www.faculty.idc.ac.il/arik/site/index.asp)
+* [Prof. Ralph Martin @ Cardiff University](https://www.cardiff.ac.uk/people/view/118143-martin-ralph)
+* [Prof. Yu-Kun Lai @ Cardiff University](https://users.cs.cf.ac.uk/Yukun.Lai/)
+* [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://ecs.victoria.ac.nz/Main/FanglueZhang)
+* [Prof. Shao-Ping Lu @ Nankai University](http://www.shaopinglu.net/)
+* [Dr. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
+* [Dr. Zhe Zhu @ Duke University](https://sites.duke.edu/zzhu/)
+* Mr. Xi-Jin Zhang @ Toutiao AI Lab
+* Mr. Xiao-Nan Fang @ Tsinghua University
+
 
 <!-- <div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
 

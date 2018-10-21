@@ -8,6 +8,63 @@
 #   highlight: 1
 #   news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
 
+- title: "Aligning Video Structures with Prominent Edges"
+  image: Fano.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: <b>Miao Wang</b>, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
+  link:
+    url: 
+    display: Technical Report
+  highlight: 1
+  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Preprint
+    show: 1
+    line: 0
+
+- title: "Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning"
+  image: Fano.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: <b>Miao Wang</b>, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu
+  link:
+    url: 
+    display: Accepted to IEEE Transactions on Image Processing
+  highlight: 1
+  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+
+- title: "Enhancing Edge-preserving Image Smoothing with Semantic Edges"
+  image: Fano.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Xiao-Nan Fang, <b>Miao Wang</b>, Ariel Shamir and Shi-Min Hu
+  link:
+    url: 
+    display: Technical Report
+  highlight: 1
+  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+
+- title: "ShadowGAN: Shadow Synthesis for Virtual Objects with Conditional Adversarial Networks"
+  image: Fano.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Shu-Yang Zhang, Run-Ze Liang and <b>Miao Wang<sup>*</sup></b>
+  link:
+    url: 
+    display: Technical Report
+  highlight: 1
+  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+
+- title: "Deep Video Stabilization using Adversarial Networks"
+  image: Fano.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Sen-Zhe Xu, Jun Hu, <b>Miao Wang</b>, Tai-Jiang Mu and Shi-Min Hu
+  link:
+    url: 
+    display: Conditionally accepted to Pacific Graphics 2018 (Special Issue of Computer Graphics Forum)
+  highlight: 1
+  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2018
+    show: 1
+    line: 1
 
 - title: "BiggerSelfie: Selfie Video Expansion with Hand-held Camera"
   image: Fano.png
@@ -50,6 +107,10 @@
     display:  Computational Visual Media, 2 (1), 3-17, 2016
   highlight: 1
   news2: <a href = "https://link.springer.com/article/10.1007/s41095-016-0037-5">PDF</a> | <a href = "../papers/comfort.bib">BibTeX</a> 
+  year: 
+    note: Before
+    show: 1
+    line: 1
 
 - title: "Multiview Conversion of 2D Cartoon Images"
   image: SmartPub.png

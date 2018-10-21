@@ -1,7 +1,7 @@
 ---
 title: "Miao Wang - Home"
 layout: homelay
-excerpt: "Miao Wang is a visual computing researcher at Tsinghua University."
+excerpt: "Miao Wang - Visual Computing @ Beihang University"
 sitemap: false
 permalink: /
 ---
@@ -24,15 +24,17 @@ permalink: /
 
 <!-- ###  **Miao Wang** -->
 
-<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Miao Wang</b></h4></div>
+<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4></div>
 
-##### Postdoc Researcher
+##### Assistant Professor
 
-##### Visual Computing Group
+##### State Key Laboratory of Virtual Reality Technology and Systems
 
-##### Department of Computer Science and Technology
+<!-- ##### School of Computer Science and Engineering -->
 
-##### Tsinghua University, Beijing
+##### Beihang University
+
+##### [[CV](http://miaowang.me/CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=AAwLfKUAAAAJ&hl=en)]
 
 <!-- ##### *Assistant Professor*
 
@@ -44,13 +46,14 @@ permalink: /
 
 <br>
 
-I am currently a postdoc researcher in [Visual Computing at Tsinghua University](http://cg.cs.tsinghua.edu.cn), Beijing, working with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received my PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. Before that, I obtained the bachelor's degree in Computer Science and Technology from Xidian University in 2011. During 2013-2014, I visited the Visual Computing Group of Cardiff University as a joint PhD student, supervised by Prof. Ralph Martin and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/).
 
-My research goals are to bridge the gap between human visual perception and media data, and to help human easily create and edit visual media. My research interests are in computer graphics and computer vision, especially in:
+I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing at Tsinghua University](http://cg.cs.tsinghua.edu.cn), worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group of Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011.
 
-* Intelligent image/video editing
-* Video manipulation for virtual reality
+My research goals are to bridge the gap between human visual perception and visual data, and to help human easily create and edit visual media. My research interests are in computer graphics and computer vision, especially in:
+
+* Video for virtual reality
 * Computational cinematography
+* Intelligent image/video editing
 * Deep learning-based image/video synthesis
 
 [Here](http://miaowang.me/publications) are my publications, and you are welcome to read my full [CV](http://miaowang.me/CV.pdf).
@@ -58,7 +61,7 @@ My research goals are to bridge the gap between human visual perception and medi
 
 
 ***
-**I am looking for passionate undergraduate students (intern) to work with me** [(contact me via email)](mailto:miaowang.me@gmail.com) **.**
+**I am looking for passionate undergraduate students (intern) to work with me. If interested, [please feel free to send me an email with your resume](mailto:miaowang.me@gmail.com).**
 
 ***
 
@@ -71,14 +74,16 @@ My research goals are to bridge the gap between human visual perception and medi
  
  
 
-
-<!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+<p style="text-align:center;">Institutions where I have studied or worked:</p>
+<figure class="fourth" style="text-align:center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/beihang_logo.jpg" style="width: 130px">&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tsinghua_logo.png" style="width: 130px">&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/xidian_logo.jpg" style="width: 130px">&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cardiff_logo.jpg" style="width: 120px">
 </figure>
- -->
+
+
+
 
 
 
