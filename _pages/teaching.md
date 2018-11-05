@@ -26,18 +26,66 @@ permalink: /teaching/
 
 **Current students**
 
-* Guo-Ye Yang, undergraduate intern, Tsinghua University, started 2015 (with Prof. Shi-Min Hu)
-* Guo-Wei Yang, undergraduate intern, Tsinghua University, started 2016 (with Prof. Shi-Min Hu)
-* Run-Ze Liang, undergraduate intern, Tsinghua University, started 2018 (with Prof. Shi-Min Hu)
+PhD students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
+
+Name &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| Year | Research Field
+-----|-----|-------
+Yi-Jun Li  | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
+
+
+<br><br>
+
+Master students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
+
+<!-- * Xu-Quan Lv, started 2019
+* Xin Wen, started 2019 -->
+
+Name| Year | Research Field
+-----|-----|-------
+Xu-Quan Lv &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
+Xin Wen | 2019- | Computer Vision
+
+
+<br><br>
+
+
+Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
+
+<!-- * Guo-Ye Yang, undergraduate intern, Tsinghua University, started 2015 
+* Guo-Wei Yang, undergraduate intern, Tsinghua University, started 2016 
+* Run-Ze Liang, undergraduate intern, Tsinghua University, started 2018  -->
+
+Name &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| Year | Position
+-----|-----|-------
+Guo-Ye Yang  | 2016-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Undergraduate 
+Guo-Wei Yang | 2017- | Undergraduate
+Run-Ze Liang | 2018- | Undergraduate
+    
+
+<br><br>
+
+		
+
+
+
 
 **Alumni**
 
-Interns supervised with Prof. Shi-Min Hu at Tsinghua University:
+Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
 
-* Jun-Bang Liang, undergraduate intern, Tsinghua University, 2014-2015. Currently a PhD candidate at UNC-CH, United States.
+Name| Year | Current Position 
+-----|-----|-------
+Jun-Bang Liang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2015-2016&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | PhD @ UNC-CH, USA 
+Jun-Kun Lin | 2017 | Undergraduate @ Tsinghua University, CN 
+Yu Fang | 2017 | PhD @ UPenn, USA 
+Shu-Yang Zhang | 2018 | Undergraduate @ UMich, USA 
+
+
+
+<!-- * Jun-Bang Liang, undergraduate intern, Tsinghua University, 2014-2015. Currently a PhD candidate at UNC-CH, United States.
 * Jin-Kun Lin, undergraduate intern, Tsinghua University, 2016-2017. 
 * Yu Fang, undergraduate intern, Tsinghua University, 2017. Currently a PhD candidate at University of Pennsylvania, United States.
-* Shu-Yang Zhang, undergraduate intern, University of Michigan, United States, summer 2018.
+* Shu-Yang Zhang, undergraduate intern, University of Michigan, United States, summer 2018. -->
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 

@@ -5,6 +5,9 @@
 
 table {
   background-color: $table-bg;
+  border-top: 1px solid $table-border-color;
+  
+  border-bottom: 1px solid $table-border-color;
 }
 caption {
   padding-top: $table-cell-padding;
@@ -30,7 +33,7 @@ th {
     > tr {
       > th,
       > td {
-        padding: $table-cell-padding;
+        padding: 20px;
         line-height: $line-height-base;
         vertical-align: top;
         border-top: 1px solid $table-border-color;

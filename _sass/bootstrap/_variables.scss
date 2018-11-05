@@ -43,7 +43,7 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif: "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, sans-serif !default;
+$font-family-sans-serif: "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
@@ -123,9 +123,9 @@ $caret-width-large:         5px !default;
 //## Customizes the `.table` component with basic values, each used across all table variations.
 
 //** Padding for `<th>`s and `<td>`s.
-$table-cell-padding:            8px !default;
+$table-cell-padding:            20px !default;
 //** Padding for cells in `.table-condensed`.
-$table-condensed-cell-padding:  5px !default;
+$table-condensed-cell-padding:  20px !default;
 
 //** Default background color used for all tables.
 $table-bg:                      transparent !default;
@@ -136,7 +136,8 @@ $table-bg-hover:                #f5f5f5 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
-$table-border-color:            $gray-lighter !default;
+$table-border-color:            #000000 !default;
+//$table-border-color:            $gray-lighter !default;
 
 
 //== Buttons
