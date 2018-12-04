@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Publications | Miao Wang @ Beihang U."
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications | Miao Wang"
 sitemap: false
 permalink: /publications/
 ---
@@ -10,7 +10,7 @@ permalink: /publications/
 <!-- ### **Publications** -->
 
 <div><h3 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h3></div>
-(in chronological order; ''*'' stands for corresponding author; see also my [Google Scholar Profile](https://scholar.google.com/citations?user=AAwLfKUAAAAJ&hl=en))
+(in chronological order; ''*'' stands for corresponding author; see also my [Google Scholar Profile](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en))
 
 <br>
 

@@ -1,7 +1,7 @@
 ---
-title: "Miao -- Teaching"
-layout: textlay
-excerpt: "Miao -- Teaching"
+title: "Teaching | Miao Wang @ Beihang U."
+layout: default
+excerpt: "Teaching | Miao Wang"
 sitemap: false
 permalink: /teaching/
 ---
@@ -28,12 +28,15 @@ permalink: /teaching/
 
 PhD students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
 
+
+
 Name &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| Year | Research Field
 -----|-----|-------
 Yi-Jun Li  | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
 
 
-<br><br>
+
+<br>
 
 Master students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
 
@@ -42,11 +45,11 @@ Master students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Bei
 
 Name| Year | Research Field
 -----|-----|-------
-Xu-Quan Lv &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
+Xu-Quan Lyu &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
 Xin Wen | 2019- | Computer Vision
 
 
-<br><br>
+<br>
 
 
 Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
@@ -58,11 +61,11 @@ Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
 Name &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| Year | Position
 -----|-----|-------
 Guo-Ye Yang  | 2016-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Undergraduate 
-Guo-Wei Yang | 2017- | Undergraduate
+Guo-Wei Yang | 2016- | Undergraduate
 Run-Ze Liang | 2018- | Undergraduate
     
 
-<br><br>
+<br>
 
 		
 
@@ -76,7 +79,7 @@ Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
 Name| Year | Current Position 
 -----|-----|-------
 Jun-Bang Liang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2015-2016&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | PhD @ UNC-CH, USA 
-Jun-Kun Lin | 2017 | Undergraduate @ Tsinghua University, CN 
+Jun-Kun Lin | 2016 | Undergraduate @ Tsinghua University, CN 
 Yu Fang | 2017 | PhD @ UPenn, USA 
 Shu-Yang Zhang | 2018 | Undergraduate @ UMich, USA 
 

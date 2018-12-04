@@ -1,22 +1,25 @@
-- date: 1. November 2018
+- date: Dec. 5th 2018
+  headline: Our paper <b>StabNet</b> is accepted to IEEE TIP. Code and data coming soon!
+
+- date: Nov. 15th 2018
   headline: I have joined the <a href="http://vrlab.buaa.edu.cn/">State Key Laboratory of Virtual Reality Technology and Systems</a>, <a href="http://www.buaa.edu.cn/">Beihang University</a>, as an assistant professor.
 
-- date: 4. September 2018
+- date: Sept. 4th 2018
   headline: Gave a talk in the 3rd Tsinghua-Cardiff workshop on Visual Computing.
 
-- date: 28. June 2018
+- date: June 28th 2018
   headline: The <a href="http://cg.cs.tsinghua.edu.cn/download/DeepStab.zip">DeepStab dataset (7.9GB)</a> for training video stabilization CNNs is available.
 
-- date: 13. June 2018
+- date: June 13th 2018
   headline: Our paper <a href="https://ieeexplore.ieee.org/document/8419717">BiggerSelfie</a> is accepted to IEEE Transactions on Image Processing.
 
-- date: 20. December 2017
+- date: Dec. 20th 2017
   headline: "Our team received the Chinese Institute of Electronics Science and Technology Progress Award, 2017."
 
-- date: 18. October 2017
+- date: Oct. 18th 2017
   headline: "Gave a talk on hyper-lapse creation in ICVRV 2017."
 
-- date: 18. September 2017
+- date: Sept. 18th 2017
   headline: "Gave a talk on Multiple-Source Hand-held Video Editing in The 2nd Tsinghua-Cardiff workshop on Visual Computing."
 
 # - date: 27. September 2018

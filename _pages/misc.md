@@ -1,7 +1,7 @@
 ---
-title: "Miao -- Misc."
+title: "Misc. | Miao Wang @ Beihang U."
 layout: textlay
-excerpt: "Miao -- Misc."
+excerpt: "Misc. | Miao Wang"
 sitemap: false
 permalink: /misc/
 ---
@@ -20,6 +20,7 @@ Here are my lovely collaborators (and their websites):
 * Prof. Song-Hai Zhang @ Tsinghua University
 * [Prof. Ariel Shamir @ IDC Israel](http://www.faculty.idc.ac.il/arik/site/index.asp)
 * [Prof. Ralph Martin @ Cardiff University](https://www.cardiff.ac.uk/people/view/118143-martin-ralph)
+* [Prof. Peter Hall @ University of Bath](http://www.cs.bath.ac.uk/~pmh/start/home.html)
 * [Prof. Yu-Kun Lai @ Cardiff University](https://users.cs.cf.ac.uk/Yukun.Lai/)
 * [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://ecs.victoria.ac.nz/Main/FanglueZhang)
 * [Prof. Shao-Ping Lu @ Nankai University](http://www.shaopinglu.net/)
