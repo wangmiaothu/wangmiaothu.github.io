@@ -47,7 +47,7 @@
     url: 
     display: Accepted to IEEE Transactions on Image Processing
   highlight: 1
-  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  news2: <a href = "https://ieeexplore.ieee.org/document/8554287">PDF</a> | <a href = "https://github.com/cxjyxxme/deep-online-video-stabilization-deploy">BibTeX</a> | <a href = "https://github.com/cxjyxxme/deep-online-video-stabilization-deploy">Code and Data</a>
   year: 
     note: 2019
     show: 1
