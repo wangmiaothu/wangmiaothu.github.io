@@ -5,9 +5,9 @@
 
 table {
   background-color: $table-bg;
-  border-top: 1px solid $table-border-color;
+  border-top: 0px solid $table-border-color;
   
-  border-bottom: 1px solid $table-border-color;
+  border-bottom: 0px solid $table-border-color;
 }
 caption {
   padding-top: $table-cell-padding;

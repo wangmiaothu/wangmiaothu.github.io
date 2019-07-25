@@ -1,14 +1,14 @@
 
-<div class="well">
+<div class="news">
 <!-- <h4><b>News</b></h4> -->
-<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>News</b></h4></div>
+<!-- <div><h5 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>News</b></h5></div> -->
 
-{% for article in site.data.news limit:6 %}
-<em>{{ article.date }}</em>
-<p>{{ article.headline }}</p>
+<!-- {% for article in site.data.news limit:6 %}
+* {{ article.date }} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{ article.headline }}{% endfor %} -->
 
-{% endfor %}
+|-----|------| {% for article in site.data.news limit:6 %}
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; &nbsp;&nbsp;&nbsp;<em>{{ article.date }}</em> &nbsp;&nbsp;&nbsp;&nbsp;| {{ article.headline }}|{% endfor %}
 
-<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>... See all news</b></a></h5>
     
-    </div>
+</div>

@@ -20,21 +20,27 @@ permalink: /
 
 *** -->
 
-![]({{ site.url }}{{ site.baseurl }}/images/miao.jpg){: style="width: 150px; float: left; border: 30px; margin-right:40px; margin-bottom:0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/miao.jpg){: style="width: 170px; float: left; border: 30px; margin-right:50px; margin-bottom:40px; margin-top:16px"}
 
 <!-- ###  **Miao Wang** -->
 
-<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4></div>
+<div><h4 style="font-family: 'Alegreya SC', Helvetica Neue, Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4> </div>
 
-##### Research Assistant Professor 
+##### Assistant Professor 
 
-##### State Key Laboratory of Virtual Reality Technology and Systems
+##### [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
 
 <!-- ##### School of Computer Science and Engineering -->
 
 ##### Beihang University
 
-##### [[CV](http://miaowang.me/CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en)] 
+##### [[CV](http://miaowang.me/CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en)] [[Chinese Website](http://shi.buaa.edu.cn/wangmiao/zh_CN/index.htm)]
+
+
+[miaow@buaa.edu.cn](mailto:miaow@buaa.edu.cn)  
+
+<!-- ##### Office: Room G-703, New Main Building, Beihang University -->
+
 
 <!-- [[中文主页](https://scholar.google.com/citations?user=AAwLfKUAAAAJ&hl=en)]  -->
 
@@ -58,9 +64,11 @@ permalink: /
 
 
 
-I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing](http://cg.cs.tsinghua.edu.cn)  at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. I reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, CVMJ journals.
+I am an assistant professor at the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing](http://cg.cs.tsinghua.edu.cn)  at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. I am serving as a conference committee member for IEEE ISMAR 2019. I reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals.
 
-The goals of my research are to bridge the gap between human visual perception and visual data, and to help human easily create and edit visual media. My research interests are in computer graphics and computer vision, especially in:
+My research goals are to help human easily create, explore, and edit visual media, especially for VR/AR. 
+
+Recent research topics are:
 
 * Video for virtual reality
 * Computational cinematography
@@ -68,21 +76,34 @@ The goals of my research are to bridge the gap between human visual perception a
 * Deep learning-based image/video synthesis
 
 
+ **I am looking for undergraduate interns to work with me in Graphics and VR/AR. If you are interested, please feel free to email me.**
 
 ***
 
-**Selected publications** (see [full publication list](http://miaowang.me/publications)):
+##### **News** 
 
-+ ###### Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph Martin and Jue Wang. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing. ACM TOG 2013.
+{% include news.html %}
 
-+ ###### Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM TOG 2014.
+***
 
-+ ###### Miao Wang, Ariel Shamir, Guo-Ye Liang, Jin-Kun Lin, Guo-Wei Liang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
+##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
 
-+ ###### Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
 
-+ ###### Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu. Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning. IEEE TIP 2019.
+<!-- +  Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage for Themed Text. ACM TOG 2019, to appear. -->
 
+
++  Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
+
+
++  Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu. Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning. IEEE TIP 2019.
+
++  Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
+
++  Miao Wang, Ariel Shamir, Guo-Ye Liang, Jin-Kun Lin, Guo-Wei Liang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
+
++  Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM TOG 2014.
+
++ Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph Martin and Jue Wang. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing. ACM TOG 2013.
 
 ***
 
@@ -111,9 +132,9 @@ The goals of my research are to bridge the gap between human visual perception a
  -->
 <!-- <p style="text-align:center;">Institutions where I have studied or worked:</p> -->
 <figure class="fourth" style="text-align:center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/beihang_logo.jpg" style="width: 130px">&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tsinghua_logo.png" style="width: 130px">&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/xidian_logo.jpg" style="width: 130px">&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/beihang_logo.jpg" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tsinghua_logo.png" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/xidian_logo.jpg" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/cardiff_logo.jpg" style="width: 120px">
 </figure>
 

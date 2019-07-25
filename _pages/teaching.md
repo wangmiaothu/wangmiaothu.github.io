@@ -6,11 +6,11 @@ sitemap: false
 permalink: /teaching/
 ---
 
-<div><h3 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Teaching</b></h3></div>
+<div><h3 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Teaching</b></h3></div>
 
 <br/>
 
-<div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
+<div><h4 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
 
 **Course Taught @ Tsinghua University**
 
@@ -18,7 +18,7 @@ permalink: /teaching/
 
 <br/>
 
-<h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Students</b></h4>
+<h4 style="font-family:'Alegreya SC',  Helvetica Neue,Source Sans Pro,Arial"><b>Students</b></h4>
 
 <p style="color:red;"> <i>I am always looking for passionate undergraduate interns to work with me. </i></p>
 
@@ -26,62 +26,72 @@ permalink: /teaching/
 
 **Current students**
 
-PhD students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
++ PhD students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
 
 
 
-Name &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| Year | Research Field
------|-----|-------
-Yi-Jun Li  | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
+	|Name | Year | Research Field|
+	|-----|-----|-------|
+	|Yi-Jun Li  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality|
 
 
 
 <br>
 
-Master students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
++ Master students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
 
-<!-- * Xu-Quan Lv, started 2019
-* Xin Wen, started 2019 -->
 
-Name| Year | Research Field
------|-----|-------
-Xu-Quan Lyu &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality
-Xin Wen | 2019- | Computer Vision
+
+
+	|Name | Year | Research Field|
+|-----|-----|-------|
+|Xu-Quan Lyu &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Augmented Reality|
+|Xin Wen | 2019- | Computer Vision|
 
 
 <br>
 
 
-Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
++ Interns co-supervised with Prof. Shi-Min Hu:
 
-<!-- * Guo-Ye Yang, undergraduate intern, Tsinghua University, started 2015 
-* Guo-Wei Yang, undergraduate intern, Tsinghua University, started 2016 
-* Run-Ze Liang, undergraduate intern, Tsinghua University, started 2018  -->
 
-Name &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;| Year | Position
------|-----|-------
-Guo-Ye Yang  | 2016-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Undergraduate 
-Guo-Wei Yang | 2016- | Undergraduate
-Run-Ze Liang | 2018- | Undergraduate
-    
+
+
+	|Name | Year | Position|
+|-----|-----|-------|
+|Guo-Ye Yang| 2016- | Undergraduate |
+|Guo-Wei Yang &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 2016- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Guo-An Li | 2019- | Undergraduate|
+
+
+
 
 <br>
 
-		
+
 
 
 
 
 **Alumni**
 
-Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
++ Interns co-supervised with Prof. Shi-Min Hu @ Tsinghua University:
 
-Name| Year | Current Position 
+
+
+	Name| Year | Current Position 
 -----|-----|-------
 Jun-Bang Liang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2015-2016&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | PhD @ UNC-CH, USA 
-Jun-Kun Lin | 2016 | Undergraduate @ Tsinghua University, CN 
+Jun-Kun Lin | 2016-2017 | Undergraduate @ Tsinghua University, CN 
 Yu Fang | 2017 | PhD @ UPenn, USA 
 Shu-Yang Zhang | 2018 | Undergraduate @ UMich, USA 
+Runze Liang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2018 | Undergraduate @ Tsinghua University, CN
+
+
+<br/>
+
+
+
 
 
 

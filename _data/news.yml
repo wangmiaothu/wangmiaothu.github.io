@@ -1,25 +1,43 @@
-- date: Dec. 7th 2018
+# - date: Aug. 2019
+#   headline: My research is awarded by the Young Elite Scientists Sponsorship Program, China Graphics Society.
+
+# - date: July 2019
+#   headline: Our paper <b>Write-A-Video</b> is conditionally accepted to SIGGRAPH Asia (ACM TOG) 2019.
+
+- date: July 2019
+  headline: One paper is conditionally accepted to Pacific Graphics 2019.
+
+- date: May 2019
+  headline: One paper is accepted to IEEE ISMAR 2019 as a poster (Proceedings of ISMAR-Adjunct 2019).
+
+- date: Feb. 2019
+  headline: Our paper <b>pix2pixSC</b> is accepted to CVPR 2019.
+
+- date: Jan. 2019
+  headline: I will serve on the Conference Committee of IEEE ISMAR 2019 @ Beijing.
+
+- date: Dec. 2018
   headline: Our paper <b>StabNet</b> is accepted to IEEE TIP. Code and data <a href="https://github.com/cxjyxxme/deep-online-video-stabilization-deploy">available</a>!
 
-- date: Nov. 15th 2018
-  headline: I have joined the <a href="http://vrlab.buaa.edu.cn/">State Key Laboratory of Virtual Reality Technology and Systems</a>, <a href="http://www.buaa.edu.cn/">Beihang University</a>, as an assistant professor.
+- date: Nov. 2018
+  headline: I moved to the <a href="http://vrlab.buaa.edu.cn/">State Key Laboratory of Virtual Reality Technology and Systems</a>, <a href="http://www.buaa.edu.cn/">Beihang University</a>.
 
-- date: Sept. 4th 2018
+- date: Sept 2018
   headline: Gave a talk in the 3rd Tsinghua-Cardiff workshop on Visual Computing.
 
-- date: June 28th 2018
+- date: June 2018
   headline: The <a href="http://cg.cs.tsinghua.edu.cn/download/DeepStab.zip">DeepStab dataset (7.9GB)</a> for training video stabilization CNNs is available.
 
-- date: June 13th 2018
+- date: June 2018
   headline: Our paper <a href="https://ieeexplore.ieee.org/document/8419717">BiggerSelfie</a> is accepted to IEEE Transactions on Image Processing.
 
-- date: Dec. 20th 2017
+- date: Dec. 2017
   headline: "Our team received the Chinese Institute of Electronics Science and Technology Progress Award, 2017."
 
-- date: Oct. 18th 2017
+- date: Oct. 2017
   headline: "Gave a talk on hyper-lapse creation in ICVRV 2017."
 
-- date: Sept. 18th 2017
+- date: Sept. 2017
   headline: "Gave a talk on Multiple-Source Hand-held Video Editing in The 2nd Tsinghua-Cardiff workshop on Visual Computing."
 
 # - date: 27. September 2018
