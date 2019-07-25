@@ -33,7 +33,7 @@
 
 - title: "Learning Explicit Smoothing Kernels for Joint Image Filtering"
   new: 1
-  image: learnkernel.png
+  image: learnkernel.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Xiao-Nan Fang, Miao Wang, Ariel Shamir and Shi-Min Hu
   link:
@@ -50,7 +50,7 @@
 
 - title: "Faithful Face Image Completion for HMD Occlusion Removal"
   new: 1
-  image: hmd_completion.png
+  image: hmd_completion.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Xin Wen and Shi-Min Hu
   link:
@@ -62,7 +62,7 @@
 
 - title: "Example-Guided Style-Consistent Image Synthesis from Semantic Labeling"
   new: 1
-  image: pix2pixsc.png
+  image: pix2pixsc.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu
   link:
@@ -74,7 +74,7 @@
 
 - title: "Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning"
   new: 0
-  image: stabnet.png
+  image: stabnet.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu
   link:
@@ -113,7 +113,7 @@
     line: 1
 
 - title: "BiggerSelfie: Selfie Video Expansion with Hand-held Camera"
-  image: biggerselfie.png
+  image: biggerselfie.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Ariel Shamir, Guo-Ye Yang, Jin-Kun Lin, Guo-Wei Yang, Shao-Ping Lu and Shi-Min Hu
   link:
@@ -124,7 +124,7 @@
 
 
 - title: "Synthesis of Shaking Video using Motion Capture data and Dynamic 3D Scene Modeling"
-  image: shake_syn.png
+  image: shake_syn.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Shao-Ping Lu, Jie You, Beerend Ceulemans, Miao Wang and Adrian Munteanu
   link:
@@ -170,7 +170,7 @@
 
 
 - title: "BiggerPicture:  Data-Driven Image Extrapolation Using Graph Matching"
-  image: biggerpicture.jpg
+  image: biggerpicture2.jpg
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
   authors: Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph R. Martin and Shi-Min Hu
   link:
@@ -200,7 +200,7 @@
   news2: <a href = "https://ieeexplore.ieee.org/document/6530639">PDF</a> | <a href = "../papers/recomposition.bib">BibTeX</a> 
 
 - title: "Data-driven Image Analysis and Editing:  A Survey (In Chinese)" 
-  image: survey.png
+  image: survey.jpg
   description: ""
   authors: Miao Wang, Fang-Lue Zhang and Shi-Min Hu
   link:

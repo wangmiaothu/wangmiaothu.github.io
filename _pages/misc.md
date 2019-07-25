@@ -13,7 +13,7 @@ permalink: /misc/
 
 <div><h4 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Collaborators</b></h4></div>
 
-Here are my lovely collaborators (and their websites):
+Here are my lovely collaborators (and their homepages):
 
 * [Prof. Shi-Min Hu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/prof_hu.htm)
 * [Prof. Kun Xu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~kun)
@@ -24,10 +24,11 @@ Here are my lovely collaborators (and their websites):
 * [Prof. Yu-Kun Lai @ Cardiff University](https://users.cs.cf.ac.uk/Yukun.Lai/)
 * [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://ecs.victoria.ac.nz/Main/FanglueZhang)
 * [Prof. Shao-Ping Lu @ Nankai University](http://www.shaopinglu.net/)
-* [Dr. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
+* [Prof. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
 * [Dr. Zhe Zhu @ Duke University](https://sites.duke.edu/zzhu/)
 * Mr. Xi-Jin Zhang @ Toutiao AI Lab
 * Mr. Xiao-Nan Fang @ Tsinghua University
+* [Mr. Ruilong Li @ University of Southern California](http://www.liruilong.cn/)
 
 
 <!-- <div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
