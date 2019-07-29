@@ -1,5 +1,5 @@
 ---
-title: "Teaching | Miao Wang @ Beihang U."
+title: "Teaching | Miao Wang - Beihang University"
 layout: default
 excerpt: "Teaching | Miao Wang"
 sitemap: false

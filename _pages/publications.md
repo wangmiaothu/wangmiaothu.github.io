@@ -1,5 +1,5 @@
 ---
-title: "Publications | Miao Wang @ Beihang U."
+title: "Publications | Miao Wang - Beihang University"
 layout: gridlay
 excerpt: "Publications | Miao Wang"
 sitemap: false

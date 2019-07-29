@@ -1,5 +1,5 @@
 ---
-title: "Home | Miao Wang @ Beihang U."
+title: "Miao Wang - Beihang University - Virtual Reality"
 layout: homelay
 excerpt: "Miao Wang is an assistant professor at Beihang University"
 sitemap: false
@@ -134,8 +134,8 @@ Recent research topics are:
 <figure class="fourth" style="text-align:center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/beihang_logo.jpg" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/tsinghua_logo.png" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/xidian_logo.jpg" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/cardiff_logo.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/xidian_logo2.jpg" style="width: 130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cardiff_logo2.jpg" style="width: 120px">
 </figure>
 
 
