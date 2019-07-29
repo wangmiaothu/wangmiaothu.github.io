@@ -3,7 +3,7 @@ $bootstrap-sass-asset-helper: false !default;
 // Variables
 // --------------------------------------------------
 
-@import url('https://fonts.googleapis.com/css?family=Alegreya+SC:400,400i,700,700i|Alegreya:400,400i,700,700i&display=swap&subset=latin-ext');
+//@import url('https://fonts.googleapis.com/css?family=Alegreya+SC:400,400i,700,700i|Alegreya:400,400i,700,700i&display=swap&subset=latin-ext');
 
 
 
@@ -46,8 +46,8 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif: 'Alegreya', "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
-$font-family-serif: 'Alegreya', Georgia, "Times New Roman", Times, serif !default;
+$font-family-sans-serif: 'ale', "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
+$font-family-serif: 'ale', Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $font-family-base:        $font-family-sans-serif !default;
@@ -69,7 +69,8 @@ $line-height-base:        1.428571429 !default; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    'Alegreya SC';
+$headings-font-family:    'aleSC'
+, "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
 //$headings-font-family:    inherit !default;
 $headings-font-weight:    400 !default;
 $headings-line-height:    1.1 !default;

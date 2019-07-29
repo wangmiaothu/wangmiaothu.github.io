@@ -24,9 +24,49 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'ale';
+    src: url('../fonts/Alegreya-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ale';
+    src: url('../fonts/Alegreya-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'ale';
+    src: url('../fonts/Alegreya-RegularItalic.ttf') format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'aleSC';
+    src: url('../fonts/AlegreyaSC-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aleSC';
+    src: url('../fonts/AlegreyaSC-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'aleSC';
+    src: url('../fonts/AlegreySC-RegularItalic.ttf') format('truetype');
+    font-style: italic;
+}
+
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: $headings-font-family;
+  font-family: 'aleSC';
+  //font-family: $headings-font-family;
   //font-family: 'helveticaneuelight';
   font-weight: $headings-font-weight;
   line-height: $headings-line-height;

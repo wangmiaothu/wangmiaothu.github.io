@@ -6,12 +6,12 @@ sitemap: false
 permalink: /misc/
 ---
 
-<div><h3 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Miscellaneous</b></h3></div>
+<div><h3 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Miscellaneous</b></h3></div>
 [[Collaborators](#Collaborators)]
 
 <br/>
 
-<div><h4 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Collaborators</b></h4></div>
+<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Collaborators</b></h4></div>
 
 Here are my lovely collaborators (and their homepages):
 

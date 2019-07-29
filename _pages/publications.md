@@ -9,7 +9,7 @@ permalink: /publications/
 
 <!-- ### **Publications** -->
 
-<div><h3 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h3></div>
+<div><h3 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h3></div>
 (in chronological order; see also my [Google Scholar Profile](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en))
 
 <br>
@@ -66,7 +66,7 @@ permalink: /publications/
 {% if publi.year.line == 1 %}
 <hr>
 {%endif%}
-<div><h4 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
+<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
 {%endif%}
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/paperpic/{{ publi.image }}" class="img-responsive" width="12%" style="float: left; margin-top: 0.5%" />

@@ -9,7 +9,7 @@
 // other navbar variations.
 
 .navbar {
-  font-family: 'Alegreya SC';
+  font-family: 'alesc', "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial;
   position: relative;
   min-height: $navbar-height; // Ensure a navbar always shows (e.g., without a .navbar-brand in collapsed mode)
   margin-bottom: $navbar-margin-bottom;

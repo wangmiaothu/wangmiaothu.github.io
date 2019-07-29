@@ -24,7 +24,7 @@ permalink: /
 
 <!-- ###  **Miao Wang** -->
 
-<div><h4 style="font-family: 'Alegreya SC', Helvetica Neue, Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4> </div>
+<div><h4 style="font-family: 'aleSC', Helvetica Neue, Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4> </div>
 
 ##### Assistant Professor 
 

@@ -6,11 +6,11 @@ sitemap: false
 permalink: /teaching/
 ---
 
-<div><h3 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Teaching</b></h3></div>
+<div><h3 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Teaching</b></h3></div>
 
 <br/>
 
-<div><h4 style="font-family: 'Alegreya SC', Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
+<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
 
 **Course Taught @ Tsinghua University**
 
@@ -18,7 +18,7 @@ permalink: /teaching/
 
 <br/>
 
-<h4 style="font-family:'Alegreya SC',  Helvetica Neue,Source Sans Pro,Arial"><b>Students</b></h4>
+<h4 style="font-family:'aleSC',  Helvetica Neue,Source Sans Pro,Arial"><b>Students</b></h4>
 
 <p style="color:red;"> <i>I am always looking for passionate undergraduate interns to work with me. </i></p>
 
