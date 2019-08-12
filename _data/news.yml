@@ -1,43 +1,43 @@
 # - date: Aug. 2019
 #   headline: My research is awarded by the Young Elite Scientists Sponsorship Program, China Graphics Society.
 
-- date: July 2019
+- date: 2019/07
   headline: One paper is conditionally accepted to ACM TOG (Proc. SIGGRAPH Asia) 2019.
 
-- date: July 2019
+- date: 2019/07
   headline: One paper is conditionally accepted to Pacific Graphics 2019.
 
-- date: May 2019
+- date: 2019/05
   headline: One paper is accepted to IEEE ISMAR 2019 as a poster (Proceedings of ISMAR-Adjunct 2019).
 
-- date: Feb. 2019
+- date: 2019/02
   headline: Our paper <b>pix2pixSC</b> is accepted to CVPR 2019.
 
-- date: Jan. 2019
+- date: 2019/01
   headline: I will serve as a conference committee member of IEEE ISMAR 2019 @ Beijing.
 
-- date: Dec. 2018
+- date: 2018/12
   headline: Our paper <b>StabNet</b> is accepted to IEEE TIP. Code and data <a href="https://github.com/cxjyxxme/deep-online-video-stabilization-deploy">available</a>!
 
-- date: Nov. 2018
+- date: 2018/11
   headline: I moved to the <a href="http://vrlab.buaa.edu.cn/">State Key Laboratory of Virtual Reality Technology and Systems</a>, <a href="http://www.buaa.edu.cn/">Beihang University</a>.
 
-- date: Sept 2018
+- date: 2018/09
   headline: Gave a talk in the 3rd Tsinghua-Cardiff workshop on Visual Computing.
 
-- date: June 2018
+- date: 2018/06
   headline: The <a href="http://cg.cs.tsinghua.edu.cn/download/DeepStab.zip">DeepStab dataset (7.9GB)</a> for training video stabilization CNNs is available.
 
-- date: June 2018
+- date: 2018/06
   headline: Our paper <b>BiggerSelfie</b> is accepted to IEEE TIP.
 
-- date: Dec. 2017
+- date: 2017/12
   headline: "Our team received the Chinese Institute of Electronics Science and Technology Progress Award, 2017."
 
-- date: Oct. 2017
+- date: 2017/10
   headline: "Gave a talk on hyper-lapse creation in ICVRV 2017."
 
-- date: Sept. 2017
+- date: 2017/09
   headline: "Gave a talk on Multiple-Source Hand-held Video Editing in The 2nd Tsinghua-Cardiff workshop on Visual Computing."
 
 # - date: 27. September 2018

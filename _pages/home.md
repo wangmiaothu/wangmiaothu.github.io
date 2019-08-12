@@ -89,21 +89,21 @@ Recent research topics are:
 ##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
 
 
-<!-- +  Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage for Themed Text. ACM TOG 2019, to appear. -->
++  **[TOG]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage for Themed Text. ACM SIGGRAPH Asia 2019, to appear.
 
 
-+  Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
++  **[CVPR]** Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
 
 
-+  Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu. Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning. IEEE TIP 2019.
++  **[TIP]** Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu. Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning. IEEE TIP 2019.
 
-+  Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
++  **[TIP]** Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
 
-+  Miao Wang, Ariel Shamir, Guo-Ye Liang, Jin-Kun Lin, Guo-Wei Liang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
++  **[TIP]** Miao Wang, Ariel Shamir, Guo-Ye Liang, Jin-Kun Lin, Guo-Wei Liang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
 
-+  Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM TOG 2014.
++  **[TOG]** Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM SIGGRAPH Asia 2014.
 
-+ Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph Martin and Jue Wang. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing. ACM TOG 2013.
++ **[TOG]** Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph Martin and Jue Wang. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing. ACM SIGGRAPH Asia 2013.
 
 ***
 

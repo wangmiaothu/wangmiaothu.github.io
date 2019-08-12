@@ -16,20 +16,20 @@
 #     line: 0
 
 
-# - title: "Write-A-Video: Computational Video Montage for Themed Text"
-#   new: 1
-#   image: sa2019.jpg
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: <b>Miao Wang</b>, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir
-#   link:
-#     url: 
-#     display: Conditionally Accepted to ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 2019
-#   highlight: 1
-#   news2:  Comming Soon!
-#   year: 
-#     note: 2019
-#     show: 1
-#     line: 0
+- title: "Write-A-Video: Computational Video Montage for Themed Text"
+  new: 1
+  image: UI_Asia.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: <b>Miao Wang</b>, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir
+  link:
+    url: 
+    display: Conditionally Accepted to ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 2019
+  highlight: 1
+  news2:  Comming Soon!
+  year: 
+    note: 2019
+    show: 1
+    line: 0
 
 - title: "Learning Explicit Smoothing Kernels for Joint Image Filtering"
   new: 1
@@ -38,13 +38,13 @@
   authors: Xiao-Nan Fang, <b>Miao Wang</b>, Ariel Shamir and Shi-Min Hu
   link:
     url: 
-    display: Conditionally Accepted to Pacific Graphics 2019
+    display: Conditionally Accepted to Computer Graphics Forum (Proc. Pacific Graphics) 2019
   highlight: 1
   news2:  Comming Soon!
-  year: 
-    note: 2019
-    show: 1
-    line: 0
+  # year: 
+  #   note: 2019
+  #   show: 1
+  #   line: 0
 
 
 
@@ -55,9 +55,9 @@
   authors: <b>Miao Wang</b>, Xin Wen and Shi-Min Hu
   link:
     url: 
-    display: IEEE International Symposium on Mixed and Augmented Reality Adjunct (Proc. ISMAR-Adjunct), 2019, Accepted
+    display: IEEE International Symposium on Mixed and Augmented Reality (Proc. ISMAR-Adjunct), 2019, Accepted
   highlight: 1
-  news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  news2: Comming Soon!
   
 
 - title: "Example-Guided Style-Consistent Image Synthesis from Semantic Labeling"
