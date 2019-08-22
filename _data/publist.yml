@@ -1,13 +1,13 @@
 
 
 # - title: "Prominent Structures for Video Analysis and Editing"
-#   new: 0
+#   new: 1
 #   image: Fano.png
 #   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
 #   authors: Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
 #   link:
 #     url: 
-#     display: Comming Soon!
+#     display: Coming Soon!
 #   highlight: 1
 #   news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
 #   year: 
@@ -25,7 +25,7 @@
     url: 
     display: Conditionally Accepted to ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 2019
   highlight: 1
-  news2:  Comming Soon!
+  news2:  Coming Soon!
   year: 
     note: 2019
     show: 1
@@ -40,7 +40,7 @@
     url: 
     display: Conditionally Accepted to Computer Graphics Forum (Proc. Pacific Graphics) 2019
   highlight: 1
-  news2:  Comming Soon!
+  news2:  Coming Soon!
   # year: 
   #   note: 2019
   #   show: 1
@@ -57,7 +57,7 @@
     url: 
     display: IEEE International Symposium on Mixed and Augmented Reality (Proc. ISMAR-Adjunct), 2019, Accepted
   highlight: 1
-  news2: Comming Soon!
+  news2: Coming Soon!
   
 
 - title: "Example-Guided Style-Consistent Image Synthesis from Semantic Labeling"
