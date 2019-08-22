@@ -71,12 +71,13 @@ My research goals are to help human easily create, explore, and edit visual medi
 Recent research topics are:
 
 * Video for virtual reality
+* Lighting estimation for augmented reality
 * Computational cinematography
 * Intelligent image/video editing
 * Deep learning-based image/video synthesis
 
 
- **I am looking for undergraduate interns to work with me in Graphics and VR/AR. If you are interested, please feel free to email me.**
+ **I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.**
 
 ***
 
