@@ -100,7 +100,7 @@ Recent research topics are:
 
 +  **[TIP]** Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
 
-+  **[TIP]** Miao Wang, Ariel Shamir, Guo-Ye Liang, Jin-Kun Lin, Guo-Wei Liang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
++  **[TIP]** Miao Wang, Ariel Shamir, Guo-Ye Yang, Jin-Kun Lin, Guo-Wei Yang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
 
 +  **[TOG]** Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM SIGGRAPH Asia 2014.
 
