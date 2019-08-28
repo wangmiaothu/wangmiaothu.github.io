@@ -34,7 +34,7 @@ permalink: /
 
 ##### Beihang University
 
-##### [[CV](http://miaowang.me/CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en)] [[Chinese Website](http://shi.buaa.edu.cn/wangmiao/zh_CN/index.htm)]
+##### [[CV](http://miaowang.me/CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en)] [[中文主页](http://shi.buaa.edu.cn/wangmiao/zh_CN/index.htm)]
 
 
 [miaow@buaa.edu.cn](mailto:miaow@buaa.edu.cn)  
