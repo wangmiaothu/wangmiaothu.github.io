@@ -20,7 +20,7 @@ permalink: /
 
 *** -->
 
-![]({{ site.url }}{{ site.baseurl }}/images/miao2.jpg){: style="width: 170px; float: left; border: 30px; margin-right:50px; margin-bottom:30px; margin-top:6px"}
+![]({{ site.url }}{{ site.baseurl }}/images/miao2.jpg){: style="width: 170px; float: left; border: 30px; margin-right:50px; margin-bottom:10px; margin-top:6px"}
 
 <!-- ###  **Miao Wang** -->
 
@@ -54,14 +54,16 @@ permalink: /
 
 ##### *Beihang University* -->
 
-<br>
+<!--2<br> -->
 
 
 <!-- <p style="color:red">Our team is looking for passionate PhD students, master students and undergraduate intern students to do research in virtual reality, computer graphics and computer vision. If interested, [please feel free to send me an email with your resume.](mailto:miaowang.me@gmail.com)</p> -->
 
 <!-- **北航虚拟现实技术与系统国家重点实验室可视媒体计算团队（胡事民教授团队）招收博士研究生、硕士研究生和北航有志于学术研究的优秀本科实习学生。研究课题包括：虚拟现实、计算机图形学和计算机视觉，请访问链接[关于招生]({{ site.url }}{{ site.baseurl }}/misc)查阅详细信息。** -->
 
+***
 
+##### **Short Bio** 
 
 
 I am an assistant professor at the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing](http://cg.cs.tsinghua.edu.cn)  at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. I am serving as a conference committee member of IEEE ISMAR 2019. I reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals.
@@ -90,7 +92,7 @@ Recent research topics are:
 ##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
 
 
-+  **[TOG]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage for Themed Text. ACM SIGGRAPH Asia 2019, to appear.
++  **[TOG]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage from Themed Text. ACM SIGGRAPH Asia 2019, to appear.
 
 
 +  **[CVPR]** Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
