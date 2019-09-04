@@ -83,7 +83,7 @@ Recent research topics are:
 
 <br>
 
-<alert-info class="alert-info"><b>I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</b></alert-info>
+<alert class="alert-info"><b>I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</b></alert>
 
 <br>
 
