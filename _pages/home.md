@@ -20,7 +20,7 @@ permalink: /
 
 *** -->
 
-![]({{ site.url }}{{ site.baseurl }}/images/miao2.jpg){: style="width: 170px; float: left; border: 30px; margin-right:50px; margin-bottom:40px; margin-top:16px"}
+![]({{ site.url }}{{ site.baseurl }}/images/miao2.jpg){: style="width: 170px; float: left; border: 30px; margin-right:50px; margin-bottom:30px; margin-top:6px"}
 
 <!-- ###  **Miao Wang** -->
 
