@@ -79,7 +79,20 @@ Recent research topics are:
 * Deep learning-based image/video synthesis
 
 
- **I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.**
+<!-- <button type="button" class="btn btn-lg btn-primary"><a href="mailto:miaow@buaa.edu.cn" style="color:white">I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</a></button> -->
+
+<br>
+
+<alert-info class="alert-info"><b>I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</b></alert-info>
+
+<br>
+
+
+<!-- <alert class="btn btn-lg btn-primary"><a href="mailto:miaow@buaa.edu.cn" style="color:white">I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</a></button> -->
+	
+
+
+ <!-- **I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.** -->
 
 ***
 
