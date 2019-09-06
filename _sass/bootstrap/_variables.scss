@@ -507,9 +507,10 @@ $state-success-text:             #fff !default;
 $state-success-bg:               $brand-success !default;
 $state-success-border:           darken($state-success-bg, 4%) !default;
 
-$state-info-text:                darken($state-info-bg, 30%) !default;
+
 $state-info-bg:                  $brand-info !default;
 $state-info-border:              darken($state-info-bg, 12%) !default;
+$state-info-text:                #fff !default;
 
 $state-warning-text:             #fff !default;
 $state-warning-bg:               $brand-warning !default;
@@ -636,7 +637,7 @@ $alert-success-text:          $state-success-text !default;
 $alert-success-border:        $state-success-border !default;
 
 $alert-info-bg:               $state-info-bg !default;
-$alert-info-text:             #0e86b5 !default;
+$alert-info-text:             $state-info-text !default;
 $alert-info-border:           $state-info-border !default;
 
 $alert-warning-bg:            $state-warning-bg !default;
