@@ -59,10 +59,8 @@ permalink: /teaching/
 
 	|Name | Year | Position|
 |-----|-----|-------|
-|Guo-Ye Yang| 2016- | Undergraduate |
-|Guo-Wei Yang &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 2016- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Guo-An Li | 2019- | Undergraduate|
-
+|Guo-An Li &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Wen-Xuan Zhang &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
 
 
 
@@ -82,10 +80,13 @@ permalink: /teaching/
 	Name| Year | Current Position 
 -----|-----|-------
 Jun-Bang Liang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2015-2016&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | PhD @ UNC-CH, USA 
-Jun-Kun Lin | 2016-2017 | Undergraduate @ Tsinghua University, CN 
+Jun-Kun Lin | 2016-2017 | PhD @ NYU, USA
+Guo-Ye Yang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2016-2019 | PhD @ Tsinghua University, CN
+Guo-Wei Yang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2016-2019 | PhD @ Tsinghua University, CN  
 Yu Fang | 2017 | PhD @ UPenn, USA 
 Shu-Yang Zhang | 2018 | Undergraduate @ UMich, USA 
 Runze Liang&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | 2018 | Undergraduate @ Tsinghua University, CN
+
 
 
 <br/>
