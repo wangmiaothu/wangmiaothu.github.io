@@ -20,7 +20,7 @@
   new: 1
   image: UI_Asia.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: <b>Miao Wang</b>, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir
+  authors: Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir
   link:
     url: 
     display: ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 38 (6), Article No.177, 2019 (to appear) 
@@ -35,7 +35,7 @@
   new: 1
   image: learnkernel.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Xiao-Nan Fang, <b>Miao Wang</b>, Ariel Shamir and Shi-Min Hu
+  authors: Xiao-Nan Fang, Miao Wang, Ariel Shamir and Shi-Min Hu
   link:
     url: 
     display: Conditionally Accepted to Computer Graphics Forum (Proc. Pacific Graphics) 2019
@@ -52,7 +52,7 @@
   new: 1
   image: hmd_completion.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: <b>Miao Wang</b>, Xin Wen and Shi-Min Hu
+  authors: Miao Wang, Xin Wen and Shi-Min Hu
   link:
     url: 
     display: IEEE International Symposium on Mixed and Augmented Reality (Proc. ISMAR-Adjunct), 2019, Accepted
@@ -64,7 +64,7 @@
   new: 1
   image: pix2pixsc.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: <b>Miao Wang</b>, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu
+  authors: Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu
   link:
     url: 
     display: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
@@ -76,7 +76,7 @@
   new: 0
   image: stabnet.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: <b>Miao Wang</b>, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu
+  authors: Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu
   link:
     url: 
     display: IEEE Transactions on Image Processing, 28 (5), 2283-2292, 2019
@@ -88,7 +88,7 @@
   new: 0
   image: shadowgan.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Shu-Yang Zhang, Run-Ze Liang and <b>Miao Wang</b>
+  authors: Shu-Yang Zhang, Run-Ze Liang and Miao Wang
   link:
     url: 
     display: Computational Visual Media, 5 (1), 2019
@@ -101,7 +101,7 @@
   new: 0
   image: PG.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Sen-Zhe Xu, Jun Hu, <b>Miao Wang</b>, Tai-Jiang Mu and Shi-Min Hu
+  authors: Sen-Zhe Xu, Jun Hu, Miao Wang, Tai-Jiang Mu and Shi-Min Hu
   link:
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13566
     display: Computer Graphics Forum (Proc. Pacific Graphics), 37 (7), 267-276, 2018
@@ -115,7 +115,7 @@
 - title: "BiggerSelfie: Selfie Video Expansion with Hand-held Camera"
   image: biggerselfie.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: <b>Miao Wang</b>, Ariel Shamir, Guo-Ye Yang, Jin-Kun Lin, Guo-Wei Yang, Shao-Ping Lu and Shi-Min Hu
+  authors: Miao Wang, Ariel Shamir, Guo-Ye Yang, Jin-Kun Lin, Guo-Wei Yang, Shao-Ping Lu and Shi-Min Hu
   link:
     url: https://ieeexplore.ieee.org/document/8419717/
     display: IEEE Transactions on Image Processing, 27 (12), 5854-5865, 2018
@@ -126,7 +126,7 @@
 - title: "Synthesis of Shaking Video using Motion Capture data and Dynamic 3D Scene Modeling"
   image: shake_syn.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Shao-Ping Lu, Jie You, Beerend Ceulemans, <b>Miao Wang</b> and Adrian Munteanu
+  authors: Shao-Ping Lu, Jie You, Beerend Ceulemans, Miao Wang and Adrian Munteanu
   link:
     url: 
     display: IEEE ICIP 2018
@@ -136,7 +136,7 @@
 - title: "Hyper-lapse Creation from Multiple Spatially-overlapping Videos"
   image: hyperlapse.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: <b>Miao Wang</b>, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu
+  authors: Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu
   link:
     url: https://ieeexplore.ieee.org/document/8025571
     display:  IEEE Transactions on Image Processing, 27 (4), 1735-1747, 2018
@@ -147,7 +147,7 @@
 - title: "Comfort-driven Disparity Adjustment for Stereoscopic Video"
   image: comfort.jpg
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: <b>Miao Wang</b>, Xi-Jin Zhang, Jun-Bang Liang, Song-Hai Zhang and Ralph R. Martin
+  authors: Miao Wang, Xi-Jin Zhang, Jun-Bang Liang, Song-Hai Zhang and Ralph R. Martin
   link:
     url: https://link.springer.com/article/10.1007/s41095-016-0037-5
     display:  Computational Visual Media, 2 (1), 3-17, 2016
@@ -161,7 +161,7 @@
 - title: "Multiview Conversion of 2D Cartoon Images"
   image: cartoon.jpg
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: Shao-Ping Lu, Sibo Feng, Beerend Ceulemans, <b>Miao Wang</b>, Rui Zhong and Adrian Munteanu
+  authors: Shao-Ping Lu, Sibo Feng, Beerend Ceulemans, Miao Wang, Rui Zhong and Adrian Munteanu
   link:
     url: http://intlpress.com/site/pub/pages/journals/items/cis/content/vols/0016/0004/a002/index.html
     display:  Communications in Information and Systems, 16 (4), 229-254, 2016
@@ -172,7 +172,7 @@
 - title: "BiggerPicture:  Data-Driven Image Extrapolation Using Graph Matching"
   image: biggerpicture2.jpg
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: <b>Miao Wang</b>, Yu-Kun Lai, Yuan Liang, Ralph R. Martin and Shi-Min Hu
+  authors: Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph R. Martin and Shi-Min Hu
   link:
     url: https://dl.acm.org/citation.cfm?id=2661278
     display:  ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 33 (6), Article No.173, 2014 
@@ -182,7 +182,7 @@
 - title: "PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing"
   image: PatchNet.jpg
   description: ""
-  authors: Shi-Min Hu, Fang-Lue Zhang, <b>Miao Wang</b>, Ralph R. Martin and Jue Wang
+  authors: Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph R. Martin and Jue Wang
   link:
     url: https://dl.acm.org/citation.cfm?id=2508381
     display: ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 32 (6), Article No.196, 2013  
@@ -192,7 +192,7 @@
 - title: "Aesthetic Image Enhancement by Dependence-Aware Object Re-Composition"
   image: aes.jpg
   description: ""
-  authors: Fang-Lue Zhang, <b>Miao Wang</b> and Shi-Min Hu
+  authors: Fang-Lue Zhang, Miao Wang and Shi-Min Hu
   link:
     url: https://ieeexplore.ieee.org/document/6530639
     display:   IEEE Transactions on Multimedia, 15 (7), 1480-1490, 2013
@@ -202,7 +202,7 @@
 - title: "Data-driven Image Analysis and Editing:  A Survey (In Chinese)" 
   image: survey.jpg
   description: ""
-  authors: <b>Miao Wang</b>, Fang-Lue Zhang and Shi-Min Hu
+  authors: Miao Wang, Fang-Lue Zhang and Shi-Min Hu
   link:
     url: 
     display:  Journal of Computer-Aided Design & Computer Graphics, 27 (11), 2015-2024, 2015

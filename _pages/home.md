@@ -83,11 +83,10 @@ Recent research topics are:
 
 <br>
 
-<alert class="alert alert-info">
-    <b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</b>
-</alert>
 
-<br>
+<p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</b></p>
+
+
 
 
 <!-- <alert class="btn btn-lg btn-primary"><a href="mailto:miaow@buaa.edu.cn" style="color:white">I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</a></button> -->
