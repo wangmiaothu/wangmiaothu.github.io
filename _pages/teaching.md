@@ -38,7 +38,7 @@ permalink: /teaching/
 
 <br>
 
-+ Master students co-supervised with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
++ Master students including co-supervised ones with Prof. Qinping Zhao and Prof. Shi-Min Hu @ Beihang University:
 
 
 
@@ -52,17 +52,17 @@ permalink: /teaching/
 <br>
 
 
-+ Interns co-supervised with Prof. Shi-Min Hu:
-
-
-
++ Interns:
 
 	|Name | Year | Position|
 |-----|-----|-------|
 |Guo-An Li &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Ze-Yin Chen &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Jun-Peng Xu &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Jin-Chao Zhou &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Zi-Ming Ye &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+|Xiang Xu &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
 |Wen-Xuan Zhang &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-
-
 
 <br>
 
