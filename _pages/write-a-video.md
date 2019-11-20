@@ -63,7 +63,9 @@ Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Vi
 
 <a href = "https://drive.google.com/open?id=1-hhv1CQk-25MeDYmNiv6AJZAES4b9ywP">Supplementary Video</a> |
 <a href = "https://drive.google.com/open?id=12KUX4JSp4_tTZq8NLakZta4Jvwphq3Tn">Interaction Video</a> |
+<a href = "http://www.mynewsdesk.com/sg/pinpoint-pr/pressreleases/lights-camera-and-dot-dot-dot-text-novel-video-editing-tool-for-user-friendly-predictive-text-to-video-production-2943444">Press Release</a> |
 <a href = "">More Results Coming Soon</a> 
+
 
 <br/>
 
