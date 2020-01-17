@@ -23,6 +23,8 @@ Here are my lovely collaborators (and their homepages):
 * [Prof. Peter Hall @ University of Bath](http://www.cs.bath.ac.uk/~pmh/start/home.html)
 * [Prof. Yu-Kun Lai @ Cardiff University](https://users.cs.cf.ac.uk/Yukun.Lai/)
 * [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://ecs.victoria.ac.nz/Main/FanglueZhang)
+* [Dr. Yong-Liang Yang @ University of Bath](http://www.yongliangyang.net/)
+* [Dr. Christian Richardt @ University of Bath](http://richardt.name/)
 * [Prof. Shao-Ping Lu @ Nankai University](http://www.shaopinglu.net/)
 * [Prof. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
 * [Dr. Zhe Zhu @ Duke University](https://sites.duke.edu/zzhu/)

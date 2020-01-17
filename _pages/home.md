@@ -20,7 +20,7 @@ permalink: /
 
 *** -->
 
-![]({{ site.url }}{{ site.baseurl }}/images/miao32.jpg){: style="width: 170px; float: left; border: 30px; margin-right:50px; margin-bottom:10px; margin-top:6px"}
+![]({{ site.url }}{{ site.baseurl }}/images/miao32.jpg){: style="width: 190px; float: left; border: 30px; margin-right:50px; margin-bottom:10px; margin-top:12px"}
 
 <!-- ###  **Miao Wang** -->
 
@@ -29,6 +29,8 @@ permalink: /
 ##### Assistant Professor 
 
 ##### [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
+
+##### Research Institute for Frontier Science
 
 <!-- ##### School of Computer Science and Engineering -->
 
@@ -84,7 +86,7 @@ Recent research topics are:
 <br>
 
 
-<p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</b></p>
+<p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to shoot me an email with your CV\.</b></p>
 
 
 
@@ -105,8 +107,9 @@ Recent research topics are:
 
 ##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
 
++  **[TVCG]** Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu. Prominent Structures for Video Analysis and Editing. Accepted to IEEE TVCG 2020.
 
-+  **[TOG]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage from Themed Text. ACM SIGGRAPH Asia 2019, to appear.
++  **[TOG]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage from Themed Text. ACM SIGGRAPH Asia 2019.
 
 
 +  **[CVPR]** Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
