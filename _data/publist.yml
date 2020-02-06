@@ -132,7 +132,7 @@
   highlight: 1
   news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
 
-- title: "Hyper-lapse Creation from Multiple Spatially-overlapping Videos"
+- title: "Hyper-Lapse From Multiple Spatially-Overlapping Videos"
   image: hyperlapse.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
   authors: Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu
