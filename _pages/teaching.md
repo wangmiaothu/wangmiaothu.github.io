@@ -20,7 +20,7 @@ permalink: /teaching/
 
 <h4 style="font-family:'aleSC',  Helvetica Neue,Source Sans Pro,Arial"><b>Students</b></h4>
 
-<p style="color:red;"> <i>I am always looking for passionate undergraduate interns to work with me. </i></p>
+<p style="color:red;"> <b>I am always looking for passionate undergraduate interns to work with me. </b></p>
 
 <!-- *I am always looking for passionate undergraduate interns to work with me.* -->
 
@@ -34,7 +34,7 @@ permalink: /teaching/
 	|-----|-----|-------|
 	|Yi-Jun Li  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 2019-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; | Virtual Reality|
 
-
+	|Jia-Qi Zhang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;| 2020-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Virtual Reality|
 
 <br>
 
@@ -52,17 +52,19 @@ permalink: /teaching/
 <br>
 
 
-<!-- + Interns:
+<!-- + Undergraduates:
 
-	|Name | Year | Position|
-|-----|-----|-------|
-|Guo-An Li &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Ze-Yin Chen &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Jun-Peng Xu &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Jin-Chao Zhou &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Zi-Ming Ye &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Xiang Xu &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
-|Wen-Xuan Zhang &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| Undergraduate|
+	|Name | Year | 
+|-----|-----|
+|Guo-An Li &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|Ze-Yin Chen &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|Jun-Peng Xu &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|Jin-Chao Zhou &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+|Zi-Ming Ye &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|Xiang Xu &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|Wen-Xuan Zhang &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|De-Rong Jin &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
+|Jin-Chuan Shi &nbsp;&nbsp;&nbsp;&nbsp; | 2019- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;| 
 
 <br>
  -->

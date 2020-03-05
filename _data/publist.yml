@@ -1,13 +1,13 @@
 
 
-- title: "Prominent Structures for Video Analysis and Editing"
+- title: "VR Content Creation and Exploration with Deep Learning: A Survey"
   new: 1
-  image: prominent.jpg
+  image: vrsurvey.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
+  authors: Miao Wang, Xu-Quan Lyu, Yi-Jun Li and Fang-Lue Zhang
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
+    display: Computational Visual Media 2020, to appear.
   highlight: 1
   news2: Coming Soon!
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -15,6 +15,24 @@
     note: 2020
     show: 1
     line: 0
+
+- title: "Prominent Structures for Video Analysis and Editing"
+  new: 1
+  image: prominent.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics 2020, to appear.
+  highlight: 1
+  news2: Coming Soon!
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2020
+    show: 0
+    line: 1
+
+
 
 
 - title: "Write-A-Video: Computational Video Montage from Themed Text"

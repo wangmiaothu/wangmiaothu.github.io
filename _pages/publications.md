@@ -69,7 +69,7 @@ permalink: /publications/
 <div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
 {%endif%}
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/paperpic/{{ publi.image }}" class="img-responsive" width="12%" style="float: left; margin-top: 0.5%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/paperpic/{{ publi.image }}" class="img-responsive" width="12%" style="float: left; margin-top: 0.2%" />
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/paperpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left" /> -->
 {% if publi.new == 1 %}
   <b style="color:red">NEW! &nbsp;</b> <a href="{{ publi.link.url }}"><b>{{ publi.title }}</b></a><br>
