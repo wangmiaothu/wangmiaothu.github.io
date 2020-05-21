@@ -68,14 +68,17 @@ Email: [miaow@buaa.edu.cn]()
 ##### **Short Bio** 
 
 
-I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [Research Institute for Frontier Science](http://qyy.buaa.edu.cn/), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing](http://cg.cs.tsinghua.edu.cn)  at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. I am serving as a program committee member of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a conference committee member of ISMAR 2019 and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals.
+I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [Research Institute for Frontier Science](http://qyy.buaa.edu.cn/), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing](http://cg.cs.tsinghua.edu.cn)  at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
 
-My research goals are to help human easily create, explore, and edit visual media, especially for VR/AR. 
+I am serving on the S&T international program committee of [ISMAR 2020](http://ismar20.org) and program committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a conference committee member for [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals.
+
+My research goals are to computationally help human easily create, explore, and edit visual media, especially for VR/AR. 
 
 Recent research topics are:
 
 * Video for virtual reality
 * Lighting estimation for augmented reality
+* Redirected Walking
 * Computational cinematography
 * Intelligent image/video editing
 * Deep learning-based image/video synthesis

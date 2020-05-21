@@ -1,5 +1,39 @@
 
 
+# - title: "Photorealistic Audio-driven Video Portraits"
+#   new: 1
+#   image: advp.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Xin Wen<sup>*</sup>, Miao Wang<sup>*</sup>, Christian Richardt, Ze-Yin Chen and Shi-Min Hu
+#   link:
+#     url: 
+#     display: Technical paper
+#   highlight: 1
+#   news2: Coming Soon!
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: Technical Reports
+#     show: 1
+#     line: 0
+
+# - title: "Transitioning360: Content-aware NFoV Virtual Camera Paths for 360° Video Playback"
+#   new: 1
+#   image: Transitioning360.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Miao Wang, Yi-Jun Li, Wen-Xuan Zhang, Christian Richardt and Shi-Min Hu
+#   link:
+#     url: 
+#     display: Technical paper
+#   highlight: 1
+#   news2: Coming Soon!
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2020
+#     show: 0
+#     line: 0
+
+
+
 - title: "VR Content Creation and Exploration with Deep Learning: A Survey"
   new: 1
   image: vrsurvey.jpg
@@ -15,6 +49,8 @@
     note: 2020
     show: 1
     line: 0
+
+
 
 - title: "Prominent Structures for Video Analysis and Editing"
   new: 1
