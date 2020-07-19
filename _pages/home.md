@@ -8,7 +8,6 @@ permalink: /
 
 <!-- <center>
 <figure>
-    
   <img src="{{ site.url }}{{ site.baseurl }}/images/miaocircle.png" style="width: 180px">
 
 </figure>
@@ -110,8 +109,8 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Academic Services** 
 
-+  Program Committee, IEEE ISMAR 2020, Brazil
-+  Program Committee, Pacific Graphics 2020, New Zealand
++  Program Committee, IEEE ISMAR 2020
++  Program Committee, Pacific Graphics 2020
 +  Program Committee, Chinagraph 2020
 +  Program Committee, CVM 2020
 +  Conference Committee, IEEE ISMAR 2019
