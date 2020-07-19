@@ -9,10 +9,34 @@ permalink: /publications/
 
 <!-- ### **Publications** -->
 
-<div><h3 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h3></div>
+<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h4></div>
+
 (in chronological order; see also my [Google Scholar Profile](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en))
 
-<br>
+**Top tier transactions and conferences in related research fields:**
+
++ **ACM Transactions on Graphics (TOG)** - Computer Graphics and Virtual Reality
+
++ **IEEE Transactions on Visualization and Computer Graphics (TVCG)** - Virtual/Augmented Reality, Graphics and Visualization
+
++ **IEEE Transactions on Image Processing (TIP)** - Image Processing
+
++ **IEEE Conference on Virtual Reality and 3D User Interfaces (VR)** - Virtual Reality
+
++ **IEEE International Symposium on Mixed and Augmented Reality (ISMAR)** - Augmented/Mixed Reality
+
++ **ACM SIGGRAPH/SIGGRAPH Asia** - Computer Graphics and Virtual Reality
+
++ **ACM Conference on Human Factors in Computing Systems (CHI)** - Human-Computer Interaction and Virtual/Augmented reality
+
++ **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)** - Computer Vision
+
+
+<hr/>
+
+
+
+
 
 <!-- ### *Research Highlights*
 
@@ -66,8 +90,12 @@ permalink: /publications/
 {% if publi.year.line == 1 %}
 <hr>
 {%endif%}
+
 <div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
+<br>
 {%endif%}
+
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/paperpic/{{ publi.image }}" class="img-responsive" width="12%" style="float: left; margin-top: 0.2%" />
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/paperpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left" /> -->
@@ -75,12 +103,12 @@ permalink: /publications/
   <b style="color:red">NEW! &nbsp;</b> <a href="{{ publi.link.url }}"><b>{{ publi.title }}</b></a><br>
   {{ publi.authors }}<br />
   {{ publi.link.display }}<br />
-  {{ publi.news2 }} <br/> 
+  {{ publi.news2 }} <br/>  <br/> 
 {%else%}
   <a href="{{ publi.link.url }}"><b>{{ publi.title }}</b></a><br> 
   {{ publi.authors }}<br />
   {{ publi.link.display }}<br />
-  {{ publi.news2 }} <br/> 
+  {{ publi.news2 }} <br/>  <br/> 
 {%endif%}
 
 

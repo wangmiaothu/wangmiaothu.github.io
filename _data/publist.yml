@@ -1,41 +1,57 @@
 
 
-# - title: "Photorealistic Audio-driven Video Portraits"
-#   new: 1
-#   image: advp.png
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Xin Wen<sup>*</sup>, Miao Wang<sup>*</sup>, Christian Richardt, Ze-Yin Chen and Shi-Min Hu
-#   link:
-#     url: 
-#     display: Technical paper
-#   highlight: 1
-#   news2: Coming Soon!
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: Technical Reports
-#     show: 1
-#     line: 0
+- title: "Photorealistic Audio-driven Video Portraits"
+  new: 1
+  image: advp.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen and Shi-Min Hu
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics (Special Issue of ISMAR 2020)
+  highlight: 1
+  news2: 
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2020
+    show: 1
+    line: 0
 
-# - title: "Transitioning360: Content-aware NFoV Virtual Camera Paths for 360° Video Playback"
-#   new: 1
-#   image: Transitioning360.png
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Miao Wang, Yi-Jun Li, Wen-Xuan Zhang, Christian Richardt and Shi-Min Hu
-#   link:
-#     url: 
-#     display: Technical paper
-#   highlight: 1
-#   news2: Coming Soon!
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: 2020
-#     show: 0
-#     line: 0
+- title: "Transitioning360: Content-aware NFoV Virtual Camera Paths for 360° Video Playback"
+  new: 1
+  image: Transitioning360.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Yi-Jun Li, Wen-Xuan Zhang, Christian Richardt and Shi-Min Hu
+  link:
+    url: 
+    display: IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2020
+  highlight: 1
+  news2: 
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 
+    show: 0
+    line: 0
+
+- title: "3D Computational Modeling and Perceptual Analysis of Kinetic Depth Effects"
+  new: 0
+  image: 3DPerceptual.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Meng-Yao Cui, Shao-Ping Lu, Miao Wang, Yong-Liang Yang, Yu-Kun Lai and Paul L. Rosin
+  link:
+    url: 
+    display: Computational Visual Media 2020, accepted
+  highlight: 1
+  news2: 
+  # news2: <a href = "../papers/VRSurvey.pdf">PDF</a> | <a href = "../papers/VRSurvey.bib">BibTeX</a> 
+  year: 
+    note: 2020
+    show: 0
+    line: 0
 
 
 
 - title: "VR Content Creation and Exploration with Deep Learning: A Survey"
-  new: 1
+  new: 0
   image: vrsurvey.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Xu-Quan Lyu, Yi-Jun Li and Fang-Lue Zhang
@@ -43,17 +59,17 @@
     url: 
     display: Computational Visual Media 6 (1), 3-28, 2020
   highlight: 1
-  news2: Coming Soon!
+  news2: <a href = "../papers/VRSurvey.pdf">PDF</a> | <a href = "../papers/VRSurvey.bib">BibTeX</a> 
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2020
-    show: 1
+    show: 0
     line: 0
 
 
 
 - title: "Prominent Structures for Video Analysis and Editing"
-  new: 1
+  new: 0
   image: prominent.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
@@ -61,7 +77,7 @@
     url: 
     display: IEEE Transactions on Visualization and Computer Graphics 2020, to appear
   highlight: 1
-  news2: Coming Soon!
+  # news2: Coming Soon!
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2020
@@ -109,7 +125,7 @@
   authors: Miao Wang, Xin Wen and Shi-Min Hu
   link:
     url: 
-    display: IEEE International Symposium on Mixed and Augmented Reality (Proc. ISMAR-Adjunct), 2019
+    display: IEEE International Symposium on Mixed and Augmented Reality Adjunct, 2019
   highlight: 1
   news2: <a href = "https://ieeexplore.ieee.org/document/8951951">PDF</a> | <a href = "../papers/faithful.bib">BibTeX</a> 
   

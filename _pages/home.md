@@ -72,13 +72,13 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 
 <!-- I am serving on the S&T Program Committee of [ISMAR 2020](http://ismar20.org) and Program Committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a Conference Committee member of [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals. -->
 
-My research goals are to computationally help human easily create, explore, and edit visual media, especially for VR/AR. 
+<!-- My research goals are to computationally help humans create, explore, and edit visual media, especially for VR/AR.  -->
 
-Recent research topics are:
+**Recent research interests:**
 
 * Video for virtual reality
 * Lighting estimation for augmented reality
-* Redirected Walking
+* Redirected walking and jumping
 * Computational cinematography
 * Intelligent image/video editing
 * Deep learning-based image/video synthesis
@@ -108,7 +108,28 @@ Recent research topics are:
 
 ***
 
+##### **Academic Services** 
+
++  Program Committee, IEEE ISMAR 2020
++  Program Committee, Pacific Graphics 2020
++  Program Committee, Chinagraph 2020
++  Program Committee, CVM 2020
++  Conference Committee, IEEE ISMAR 2019
+
+***
+
+<!-- ##### **Awards**
+
++ Young Elite Scientists Sponsorship Program by China Graphics Society, 2019
++ National Science and Technology Progress Award of China (Second Class Prize, 9th Achiever), 2018
+
+*** -->
+
 ##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
+
++  **[TVCG]** Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen and Shi-Min Hu. Photorealistic Audio-driven Video Portraits. Accepted to IEEE TVCG 2020 (Special Issue of ISMAR).
+
++  **[ISMAR]** Miao Wang, Yi-Jun Li, Wen-Xuan Zhang, Christian Richardt and Shi-Min Hu. Transitioning360: Content-aware NFoV Virtual Camera Paths for 360° Video Playback. Accepted to IEEE ISMAR 2020.
 
 +  **[TVCG]** Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu. Prominent Structures for Video Analysis and Editing. Accepted to IEEE TVCG 2020.
 
