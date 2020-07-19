@@ -77,7 +77,7 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 
 * Video for virtual reality
 * Lighting estimation for augmented reality
-* Redirected walking and jumping
+* Redirected walking
 * Computational cinematography
 * Intelligent image/video editing
 * Deep learning-based image/video synthesis
