@@ -10,7 +10,7 @@ permalink: /people/
 
 
 
-<h4 style="font-family:'aleSC',  Helvetica Neue,Source Sans Pro,Arial"><b>People - Graphics and Geometric Computing Group<!-- -- Graphixr (Graphics and XR Group in the State Key Lab of VR) --></b></h4>
+<h4 style="font-family:'aleSC',  Helvetica Neue,Source Sans Pro,Arial"><b>People - Graphics and Geometric Computing<!-- -- Graphixr (Graphics and XR Group in the State Key Lab of VR) --></b></h4>
 
 <br/>
 
@@ -20,7 +20,7 @@ permalink: /people/
 
 **Faculty**
 
-+ Prof. Shi-Min Hu (Group Director)
++ Prof. Shi-Min Hu
 + Dr. Miao Wang
 
 <br/>

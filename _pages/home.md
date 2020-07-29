@@ -87,8 +87,11 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 
 <br>
 
+<p style="color:red"><b>研究生招生: </b>
+团队招收2021级研究生（直博或硕士），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养；提倡师生通力合作，共同成长。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系我。</p>
 
 <p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to shoot me an email with your CV\.</b></p>
+
 
 
 
