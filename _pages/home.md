@@ -29,7 +29,9 @@ permalink: /
 
 ##### [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
 
-##### [Research Institute for Frontier Science](http://qyy.buaa.edu.cn/)
+##### [School of Computer Science and Engineering](http://scse.buaa.edu.cn/index.htm)
+
+<!-- ##### [Research Institute for Frontier Science](http://qyy.buaa.edu.cn/) -->
 
 <!-- ##### School of Computer Science and Engineering -->
 
@@ -67,7 +69,7 @@ Email: [miaow@buaa.edu.cn]()
 ##### **Short Bio** 
 
 
-I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [Research Institute for Frontier Science](http://qyy.buaa.edu.cn/), Beihang University. Prior to this, I was a postdoc researcher in [Visual Computing](http://cg.cs.tsinghua.edu.cn)  at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Dr. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
+I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
 
 <!-- I am serving on the S&T Program Committee of [ISMAR 2020](http://ismar20.org) and Program Committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a Conference Committee member of [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals. -->
 
@@ -88,7 +90,10 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 <br>
 
 <p style="color:red"><b>研究生招生: </b>
-团队招收2021级研究生（直博或硕士，研究生学籍在计算机学院，专业为计算机科学与技术），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系我。</p>
+团队招收2022级研究生（直博或硕士），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系。</p>
+
+<p style="color:red"><b>本科实习生招生: </b>
+团队长期接收北航本科生进课题组进行科研训练，有兴趣的同学请邮件联系。</p>
 
 <p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to shoot me an email with your CV\.</b></p>
 
