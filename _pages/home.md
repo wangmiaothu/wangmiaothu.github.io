@@ -69,7 +69,7 @@ Email: [miaow@buaa.edu.cn]()
 ##### **Short Bio** 
 
 
-I am an assistant professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University, worked with [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). I received a PhD degree from Tsinghua University in 2016, supervised by Prof. Shi-Min Hu. During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
+I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher (2016-2018) in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
 
 <!-- I am serving on the S&T Program Committee of [ISMAR 2020](http://ismar20.org) and Program Committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a Conference Committee member of [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals. -->
 
@@ -78,7 +78,7 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 **Recent research interests:**
 
 * Video for virtual reality
-* Lighting estimation for augmented reality
+* Lighting estimation for mixed reality
 * Redirected walking
 * Computational cinematography
 * Intelligent image/video editing
@@ -117,10 +117,11 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Academic Services** 
 
++  Program Committee, IEEE VR 2021 Conference Papers
 +  Program Committee, IEEE ISMAR 2020
 +  Program Committee, Pacific Graphics 2020
 +  Program Committee, Chinagraph 2020
-+  Program Committee, CVM 2020
++  Program Committee, CVM 2021, 2020
 +  Conference Committee, IEEE ISMAR 2019
 
 ***
@@ -134,27 +135,32 @@ I am an assistant professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
 
-+  **[TVCG]** Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen and Shi-Min Hu. Photorealistic Audio-driven Video Portraits. Accepted to IEEE TVCG 2020 (Special Issue of ISMAR).
++  **[VR \'21]** Miao Wang, Ziming Ye, Jinchuan Shi, Yong-Liang Yang. Scene Context-aware Indoor Object Selection and Movement in VR. Conditionally accepted to IEEE VR 2021.
 
-+  **[ISMAR]** Miao Wang, Yi-Jun Li, Wen-Xuan Zhang, Christian Richardt and Shi-Min Hu. Transitioning360: Content-aware NFoV Virtual Camera Paths for 360° Video Playback. Accepted to IEEE ISMAR 2020.
++  **[VR \'21]** Yi-Jun Li, De-Rong Jin, Miao Wang, Jun-Long Chen, Frank Steinicke, Shi-Min Hu and Qinping Zhao. Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping. Conditionally accepted to IEEE VR 2021.
 
-+  **[TVCG]** Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu. Prominent Structures for Video Analysis and Editing. Accepted to IEEE TVCG 2020.
++  **[TVCG \'21]** Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu. Prominent Structures for Video Analysis and Editing. IEEE TVCG Early Access.
 
-+  **[TOG]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage from Themed Text. ACM SIGGRAPH Asia 2019.
++  **[TVCG \'20]** Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen and Shi-Min Hu. Photorealistic Audio-driven Video Portraits. IEEE TVCG 2020 (Special Issue of ISMAR).
+
++  **[ISMAR \'20]** Miao Wang, Yi-Jun Li, Wen-Xuan Zhang, Christian Richardt and Shi-Min Hu. Transitioning360: Content-aware NFoV Virtual Camera Paths for 360° Video Playback. IEEE ISMAR 2020.
 
 
-+  **[CVPR]** Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
++  **[TOG \'19]** Miao Wang, Guo-Wei Yang, Shi-Min Hu, Shing-Tung Yau and Ariel Shamir. Write-A-Video: Computational Video Montage from Themed Text. ACM SIGGRAPH Asia 2019.
 
 
-+  **[TIP]** Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu. Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning. IEEE TIP 2019.
++  **[CVPR \'19]** Miao Wang, Guo-Ye Yang, Ruilong Li, Runze Liang, Song-Hai Zhang, Peter M. Hall and Shi-Min Hu. Example-Guided Style-Consistent Image Synthesis from Semantic Labeling. IEEE CVPR 2019.
 
-+  **[TIP]** Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
 
-+  **[TIP]** Miao Wang, Ariel Shamir, Guo-Ye Yang, Jin-Kun Lin, Guo-Wei Yang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
++  **[TIP \'19]** Miao Wang, Guo-Ye Yang, Jin-Kun Lin, Song-Hai Zhang, Ariel Shamir, Shao-Ping Lu and Shi-Min Hu. Deep Online Video Stabilization with Multi-Grid Warping Transformation Learning. IEEE TIP 2019.
 
-+  **[TOG]** Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM SIGGRAPH Asia 2014.
++  **[TIP \'18]** Miao Wang, Jun-Bang Liang, Song-Hai Zhang, Shao-Ping Lu, Ariel Shamir and Shi-Min Hu. Hyper-lapse Creation from Multiple Spatially-overlapping Videos. IEEE TIP 2018.
 
-+ **[TOG]** Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph Martin and Jue Wang. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing. ACM SIGGRAPH Asia 2013.
++  **[TIP \'18]** Miao Wang, Ariel Shamir, Guo-Ye Yang, Jin-Kun Lin, Guo-Wei Yang, Shao-Ping Lu and Shi-Min Hu. BiggerSelfie: Selfie Video Expansion with Hand-held Camera. IEEE TIP 2018.
+
++  **[TOG \'14]** Miao Wang, Yu-Kun Lai, Yuan Liang, Ralph Martin and Shi-Min Hu. BiggerPicture: Data-Driven Image Extrapolation Using Graph Matching. ACM SIGGRAPH Asia 2014.
+
++ **[TOG \'13]** Shi-Min Hu, Fang-Lue Zhang, Miao Wang, Ralph Martin and Jue Wang. PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing. ACM SIGGRAPH Asia 2013.
 
 ***
 

@@ -13,7 +13,7 @@ permalink: /publications/
 
 (in chronological order; see also my [Google Scholar Profile](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en))
 
-**Top tier transactions and conferences in related research fields:**
+**Top-tier journals and conferences in related research fields:**
 
 + **ACM Transactions on Graphics (TOG)** - Computer Graphics and Virtual Reality
 
@@ -27,7 +27,7 @@ permalink: /publications/
 
 + **ACM SIGGRAPH/SIGGRAPH Asia** - Computer Graphics and Virtual Reality
 
-+ **ACM Conference on Human Factors in Computing Systems (CHI)** - Human-Computer Interaction and Virtual/Augmented reality
++ **ACM Conference on Human Factors in Computing Systems (CHI)** - Human-Computer Interaction
 
 + **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)** - Computer Vision
 

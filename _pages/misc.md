@@ -6,23 +6,74 @@ sitemap: false
 permalink: /misc/
 ---
 
+
+
+
+
+
+
+
 <div><h3 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Miscellaneous</b></h3></div>
-[[Collaborators](#Collaborators)]
+[[VR/AR/MR Research Groups](#VRAR)] [[Collaborators](#Collaborators)]
+
 
 <br/>
 
-<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Collaborators</b></h4></div>
+<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial" id="VRAR"><b>Awesome VR/AR/MR Groups</b></h4></div>
+
+Academic VR/AR/MR Research Groups in the world (in alphabetical order):
+
+* [Bauhaus-Universität Weimar - Virtual Reality and Visualization Research](https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/)
+* [Beihang University - State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
+* [City University of Hong Kong - eXtended Reality Lab (XRL)](https://xr-lab.org)
+* [Coburg University - mixedrealitylab](https://www.mixedrealitylab.de/index-en.html)
+* [Davidson College - Davidson Research in Immersive Virtual Environments Lab (DRIVE)](https://tabithapeck.com/research/)
+* [Delft University of Technology - Computer Graphics and Visualization (CGV)](http://graphics.tudelft.nl)
+* [George Mason University - Design Computing and Extended Reality Group (DCXR)](https://craigyuyu.github.io/home/)
+* [Graz University of Technology - Institute of Computer Graphics and Vision](https://www.tugraz.at/institutes/icg/home/)
+* [Inria - Hybrid: 3D Interaction with Virtual Environments using Body and Mind](https://team.inria.fr/hybrid/)
+* [Julius-Maximilians-Universität of Würzburg - Human-Computer Interaction](http://hci.uni-wuerzburg.de/)
+* [Max Planck Institute for Informatics - Computer Graphics](https://www.mpi-inf.mpg.de/departments/computer-graphics/)
+* [Nara Institute of Science and Technology - Cybernetics and Reality Engineering Laboratory (CARE)](https://carelab.info/en/)
+* [Osaka University - SENS Lab](https://www.sens.sys.es.osaka-u.ac.jp/)
+* [Polytechnic Institute of Bari - VR3Lab](https://www.dimeg.poliba.it/vr3lab/index.php/en/)
+* [Tsinghua University - Computer Graphics](http://cg.cs.tsinghua.edu.cn)
+* [Tsinghua University - Pervasive Human Computer Interaction](http://pi.cs.tsinghua.edu.cn)
+* [Universidad de Zaragoza - Graphics and Imaging Lab](http://graphics.unizar.es/index.html)
+* [Universität Hamburg - Human-Computer Interaction](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html)
+* [University College London - Virtual Environments and Computer Graphics (VECG)](http://vecg.cs.ucl.ac.uk/)
+* [University of Bath - REal and Virtual Environments Augmentation Labs (REVEAL)](https://www.bath.ac.uk/research-centres/real-and-virtual-environments-augmentation-labs-reveal/)
+* [University of Bath - Visual Computing](https://www.bath.ac.uk/projects/visual-computing/)
+* [University of Canterbury - Human Interface Technology Lab New Zealand (HIT Lab NZ)](https://www.hitlabnz.org/)
+* [University of Central Florida - Synthetic Reality Lab (SREAL)](https://sreal.ucf.edu/)
+* [University of Maryland - GAMMA Group](https://gamma.umd.edu/)
+* [University of Minnesota - Illusioneering Lab](https://illusioneering.cs.umn.edu/)
+* [University of North Carolina at Chapel Hill - Graphics & Virtual Reality Group](http://telepresence.web.unc.edu/)
+* [University of Otago - Human Computer Interaction Group](http://www.hci.otago.ac.nz/)
+* [University of Otago - Visual Computing Otago](https://visualcomputing.otago.ac.nz/team.html)
+* [University of South Australia - Empathic Computing Lab](http://empathiccomputing.org/)
+* [University of South Australia - Wearable Computer Laboratory](https://wearables.unisa.edu.au/publications.html)
+* [University of Tokyo - Cyber Interface Lab](http://www.cyber.t.u-tokyo.ac.jp/)
+* [Victoria University of Wellington - Computational Media Innovation Centre (CMIC)](https://www.wgtn.ac.nz/cmic)
+* [Virginia Tech - 3D Interaction Group](https://research.cs.vt.edu/3di/)
+* **Keep updating**...
+
+
+<br/>
+
+<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial" id="Collaborators"><b>Collaborators</b></h4></div>
 
 Here are my lovely collaborators (and their homepages):
 
 * [Prof. Shi-Min Hu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/prof_hu.htm)
 * [Prof. Kun Xu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~kun)
 * Prof. Song-Hai Zhang @ Tsinghua University
-* [Prof. Ariel Shamir @ IDC Israel](http://www.faculty.idc.ac.il/arik/site/index.asp)
+* [Prof. Ariel Shamir @ IDC Herzliya](http://www.faculty.idc.ac.il/arik/site/index.asp)
 * [Prof. Ralph Martin @ Cardiff University](https://www.cardiff.ac.uk/people/view/118143-martin-ralph)
 * [Prof. Peter Hall @ University of Bath](http://www.cs.bath.ac.uk/~pmh/start/home.html)
+* [Prof. Frank Steinicke @ University of Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/steinicke.html)
 * [Prof. Yu-Kun Lai @ Cardiff University](https://users.cs.cf.ac.uk/Yukun.Lai/)
-* [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://ecs.victoria.ac.nz/Main/FanglueZhang)
+* [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://people.wgtn.ac.nz/fanglue.zhang)
 * [Dr. Yong-Liang Yang @ University of Bath](http://www.yongliangyang.net/)
 * [Dr. Christian Richardt @ University of Bath](http://richardt.name/)
 * [Prof. Shao-Ping Lu @ Nankai University](http://www.shaopinglu.net/)
