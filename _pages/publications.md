@@ -9,7 +9,7 @@ permalink: /publications/
 
 <!-- ### **Publications** -->
 
-<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h4></div>
+<div><h4 style="font-family: 'HelveticaNeue-Light', arial, 'Optima','aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Publications</b></h4></div>
 
 (in chronological order; see also my [Google Scholar Profile](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en))
 
@@ -91,7 +91,7 @@ permalink: /publications/
 <hr>
 {%endif%}
 
-<div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
+<div><h4 style="font-family: 'HelveticaNeue-Light', arial, 'Optima','aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>{{publi.year.note}}</b></h4></div> 
 <br>
 {%endif%}
 

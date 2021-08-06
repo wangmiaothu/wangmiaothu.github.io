@@ -88,7 +88,8 @@ src: local('Optima Bold'), url('OPTIMA_B.woff') format('woff');
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: 'Optima';
+  font-family: "HelveticaNeue-Light", arial, 'Optima';
+  //font-family: 'Optima';
   //font-family: 'aleSC';
   //font-family: $headings-font-family;
   //font-family: 'helveticaneuelight';

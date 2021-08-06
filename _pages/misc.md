@@ -14,14 +14,14 @@ permalink: /misc/
 
 
 <div><h3 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial"><b>Miscellaneous</b></h3></div>
-[[VR/AR/MR Research Groups](#VRAR)] [[Collaborators](#Collaborators)]
+[[VR/AR/XR Research Groups](#VRAR)] [[Collaborators](#Collaborators)]
 
 
 <br/>
 
 <div><h4 style="font-family: 'aleSC', Helvetica Neue,Source Sans Pro,Arial" id="VRAR"><b>Awesome VR/AR/MR Groups</b></h4></div>
 
-Academic VR/AR/MR Research Groups in the world (in alphabetical order):
+VR/AR/XR Research Groups in Academia (in alphabetical order):
 
 * [Bauhaus-Universität Weimar - Virtual Reality and Visualization Research](https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/)
 * [Beihang University - State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
@@ -29,10 +29,13 @@ Academic VR/AR/MR Research Groups in the world (in alphabetical order):
 * [Coburg University - mixedrealitylab](https://www.mixedrealitylab.de/index-en.html)
 * [Davidson College - Davidson Research in Immersive Virtual Environments Lab (DRIVE)](https://tabithapeck.com/research/)
 * [Delft University of Technology - Computer Graphics and Visualization (CGV)](http://graphics.tudelft.nl)
+* [ETH Zurich - Innovation Center Virtual Reality (ICVR)](https://www.icvr.ethz.ch/research/index_EN)
 * [George Mason University - Design Computing and Extended Reality Group (DCXR)](https://craigyuyu.github.io/home/)
+* [German Research Center for Artificial Intelligence - Augmented Vision](https://av.dfki.de/)
 * [Graz University of Technology - Institute of Computer Graphics and Vision](https://www.tugraz.at/institutes/icg/home/)
 * [Inria - Hybrid: 3D Interaction with Virtual Environments using Body and Mind](https://team.inria.fr/hybrid/)
 * [Julius-Maximilians-Universität of Würzburg - Human-Computer Interaction](http://hci.uni-wuerzburg.de/)
+* [Keio University - Interactive Media Lab](https://im-lab.net/people/)
 * [Max Planck Institute for Informatics - Computer Graphics](https://www.mpi-inf.mpg.de/departments/computer-graphics/)
 * [Nara Institute of Science and Technology - Cybernetics and Reality Engineering Laboratory (CARE)](https://carelab.info/en/)
 * [Osaka University - SENS Lab](https://www.sens.sys.es.osaka-u.ac.jp/)

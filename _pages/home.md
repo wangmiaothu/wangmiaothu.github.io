@@ -1,7 +1,7 @@
 ---
 title: "Miao Wang - Beihang University - Virtual Reality"
 layout: homelay
-excerpt: "Miao Wang is an assistant professor at Beihang University"
+excerpt: "Miao Wang is an Assistant Professor in the State Key Laboratory of Virtual Reality Technology and Systems at Beihang University"
 sitemap: false
 permalink: /
 ---
@@ -23,7 +23,7 @@ permalink: /
 
 <!-- ###  **Miao Wang** -->
 
-<div><h4 style="font-family: 'aleSC', Helvetica Neue, Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4> </div>
+<div><h4 style="font-family: HelveticaNeue-Light, arial, 'Optima','aleSC', Helvetica Neue, Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4> </div>
 
 ##### Assistant Professor 
 
@@ -77,12 +77,12 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 **Recent research interests:**
 
-* Video for virtual reality
-* Lighting estimation for mixed reality
-* Redirected walking
-* Computational cinematography
+* Virtual reality: content creation and exploration
+* Immersive experience in virtual environment
+* Redirected locomotion
 * Intelligent image/video editing
-* Deep learning-based image/video synthesis
+* 360 image and video
+
 
 
 <!-- <button type="button" class="btn btn-lg btn-primary"><a href="mailto:miaow@buaa.edu.cn" style="color:white">I am looking for undergraduate interns to work with me. If interested, please feel free to drop me an email.</a></button> -->
@@ -117,11 +117,13 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 ##### **Academic Services** 
 
-+  Program Committee, IEEE VR 2021 Conference Papers
-+  Program Committee, IEEE ISMAR 2020
-+  Program Committee, Pacific Graphics 2020
++  Program Committee, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/)
++  Program Committee, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/)
++  Program Committee, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/)
++  Program Committee, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/)
++  Program Committee, ChinaVR 2021
++  Program Committee, CCF CAD/CG 2021
 +  Program Committee, Chinagraph 2020
-+  Program Committee, CVM 2021, 2020
 +  Conference Committee, IEEE ISMAR 2019
 
 ***

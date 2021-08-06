@@ -1,12 +1,12 @@
 
-- title: "Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping"
+- title: "PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Reality Navigation"
   new: 1
-  image: HVJump.jpg
+  image: paval.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Yi-Jun Li, De-Rong Jin, Miao Wang, Jun-Long Chen, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  authors: Ziming Ye, Junlong Chen, Miao Wang*, Yong-Liang Yang and Shi-Min Hu
   link:
     url: 
-    display: IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2021), to appear
+    display: ISMAR 2021 - To Appear
   highlight: 1
   news2: 
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -16,14 +16,80 @@
     line: 0
 
 
-- title: "Scene-Context-Aware Indoor Object Selection and Movement in VR"
+- title: "OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms"
   new: 1
+  image: openrdw.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Yi-Jun Li, Miao Wang*, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  link:
+    url: 
+    display: ISMAR 2021 - To Appear
+  highlight: 1
+  news2: 
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2021
+    show: 0
+    line: 0
+
+
+- title: "A Reinforcement Learning Approach to Redirected Walking with Passive Haptic Feedback"
+  new: 1
+  image: phrl.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Ze-Yin Chen, Yi-Jun Li, Miao Wang*, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  link:
+    url: 
+    display: ISMAR 2021 - To Appear
+  highlight: 1
+  news2: 
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2021
+    show: 0
+    line: 0
+
+# - title: "Write-An-Animation: High-level Text-based Animation Editing with Character-Scene Interaction"
+#   new: 1
+#   image: text2anim.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Jia-Qi Zhang, Xiang Xu, Zhi-Meng Shen, Ze-Huan Huang, Yang Zhao, Yan-Pei Cao, Peng-Fei Wan and Miao Wang*
+#   link:
+#     url: 
+#     display: Computer Graphics Forum (Proc. Pacific Graphics 2021) - Conditionally Accepted
+#   highlight: 1
+#   news2: 
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2021
+#     show: 0
+#     line: 0
+
+- title: "Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping"
+  new: 0
+  image: HVJump.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Yi-Jun Li, De-Rong Jin, Miao Wang*, Jun-Long Chen, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  link:
+    url: 
+    display: Proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2021), 95-102, 2021
+  highlight: 1
+  news2: 
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2021
+    show: 0
+    line: 0
+
+
+- title: "Scene-Context-Aware Indoor Object Selection and Movement in VR"
+  new: 0
   image: IndoorVR.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Miao Wang, Ziming Ye, Jinchuan Shi and Yong-Liang Yang
   link:
     url: 
-    display: IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2021), to appear
+    display: Proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2021), 235-244, 2021
   highlight: 1
   news2: 
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -33,18 +99,34 @@
     line: 0
 
 - title: "Effects of Virtual Environments and Self-representations on Redirected Jumping"
-  new: 1
+  new: 0
   image: JumpVR.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Yi-Jun Li, Miao Wang, De-Rong Jin, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  authors: Yi-Jun Li, Miao Wang*, De-Rong Jin, Frank Steinicke, Shi-Min Hu and Qinping Zhao
   link:
     url: 
-    display: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2021), to appear
+    display: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2021), 464-465, 2021
   highlight: 1
   news2: 
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2021
+    show: 0
+    line: 0
+
+- title: "Prominent Structures for Video Analysis and Editing"
+  new: 0
+  image: prominent.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, 27 (7), 3305-3317, 2021
+  highlight: 1
+  # news2: Coming Soon!
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2020
     show: 0
     line: 0
 
@@ -54,7 +136,7 @@
   new: 0
   image: advp.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen and Shi-Min Hu
+  authors: Xin Wen, Miao Wang*, Christian Richardt, Ze-Yin Chen and Shi-Min Hu
   link:
     url: 
     display: IEEE Transactions on Visualization and Computer Graphics, 26 (12), 3457-3466, 2020
@@ -118,21 +200,7 @@
 
 
 
-- title: "Prominent Structures for Video Analysis and Editing"
-  new: 0
-  image: prominent.jpg
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu
-  link:
-    url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
-  highlight: 1
-  # news2: Coming Soon!
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2020
-    show: 0
-    line: 1
+
 
 
 
