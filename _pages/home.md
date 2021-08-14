@@ -79,7 +79,7 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 * Virtual reality: content creation and exploration
 * Immersive experience in virtual environment
-* Redirected locomotion
+* Redirected locomotion (check out [Awesome RDW](https://github.com/yaoling1997/Awesome-RDW) papers from the community!)
 * Intelligent image/video editing
 * 360 image and video
 
@@ -135,13 +135,13 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 *** -->
 
-##### **Selected Publications** (See [All Publications](http://miaowang.me/publications)):
+##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
 
-+  **[VR \'21]** Miao Wang, Ziming Ye, Jinchuan Shi, Yong-Liang Yang. Scene Context-aware Indoor Object Selection and Movement in VR. Conditionally accepted to IEEE VR 2021.
++  **[VR \'21]** Miao Wang, Ziming Ye, Jinchuan Shi, Yong-Liang Yang. Scene Context-aware Indoor Object Selection and Movement in VR. IEEE VR 2021.
 
-+  **[VR \'21]** Yi-Jun Li, De-Rong Jin, Miao Wang, Jun-Long Chen, Frank Steinicke, Shi-Min Hu and Qinping Zhao. Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping. Conditionally accepted to IEEE VR 2021.
++  **[VR \'21]** Yi-Jun Li, De-Rong Jin, Miao Wang, Jun-Long Chen, Frank Steinicke, Shi-Min Hu and Qinping Zhao. Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping. IEEE VR 2021.
 
-+  **[TVCG \'21]** Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu. Prominent Structures for Video Analysis and Editing. IEEE TVCG Early Access.
++  **[TVCG \'21]** Miao Wang, Xiao-Nan Fang, Guo-Wei Yang, Ariel Shamir and Shi-Min Hu. Prominent Structures for Video Analysis and Editing. IEEE TVCG 2021.
 
 +  **[TVCG \'20]** Xin Wen, Miao Wang, Christian Richardt, Ze-Yin Chen and Shi-Min Hu. Photorealistic Audio-driven Video Portraits. IEEE TVCG 2020 (Special Issue of ISMAR).
 

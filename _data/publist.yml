@@ -1,9 +1,24 @@
+# - title: "Write-An-Animation: High-level Text-based Animation Editing with Character-Scene Interaction"
+#   new: 1
+#   image: text2anim.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Jia-Qi Zhang, Xiang Xu, Zhi-Meng Shen, Ze-Huan Huang, Yang Zhao, Yan-Pei Cao, Pengfei Wan and Miao Wang*
+#   link:
+#     url: 
+#     display: Computer Graphics Forum (Proc. Pacific Graphics 2021) - To Appear
+#   highlight: 1
+#   news2: 
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2021
+#     show: 1
+#     line: 0
 
 - title: "PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Reality Navigation"
   new: 1
   image: paval.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Ziming Ye, Junlong Chen, Miao Wang*, Yong-Liang Yang and Shi-Min Hu
+  authors: Ziming Ye, Junlong Chen, Miao Wang* and Yong-Liang Yang
   link:
     url: 
     display: ISMAR 2021 - To Appear
@@ -20,7 +35,7 @@
   new: 1
   image: openrdw.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Yi-Jun Li, Miao Wang*, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  authors: Yi-Jun Li, Miao Wang*, Frank Steinicke and Qinping Zhao
   link:
     url: 
     display: ISMAR 2021 - To Appear
@@ -37,7 +52,7 @@
   new: 1
   image: phrl.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Ze-Yin Chen, Yi-Jun Li, Miao Wang*, Frank Steinicke, Shi-Min Hu and Qinping Zhao
+  authors: Ze-Yin Chen, Yi-Jun Li, Miao Wang*, Frank Steinicke and Qinping Zhao
   link:
     url: 
     display: ISMAR 2021 - To Appear
@@ -49,21 +64,6 @@
     show: 0
     line: 0
 
-# - title: "Write-An-Animation: High-level Text-based Animation Editing with Character-Scene Interaction"
-#   new: 1
-#   image: text2anim.png
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Jia-Qi Zhang, Xiang Xu, Zhi-Meng Shen, Ze-Huan Huang, Yang Zhao, Yan-Pei Cao, Peng-Fei Wan and Miao Wang*
-#   link:
-#     url: 
-#     display: Computer Graphics Forum (Proc. Pacific Graphics 2021) - Conditionally Accepted
-#   highlight: 1
-#   news2: 
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: 2021
-#     show: 0
-#     line: 0
 
 - title: "Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping"
   new: 0
