@@ -74,7 +74,7 @@ Here are my lovely collaborators (and their homepages):
 * [Prof. Ariel Shamir @ IDC Herzliya](http://www.faculty.idc.ac.il/arik/site/index.asp)
 * [Prof. Ralph Martin @ Cardiff University](https://www.cardiff.ac.uk/people/view/118143-martin-ralph)
 * [Prof. Peter Hall @ University of Bath](http://www.cs.bath.ac.uk/~pmh/start/home.html)
-* [Prof. Frank Steinicke @ University of Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/steinicke.html)
+* [Prof. Frank Steinicke @ Universität Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/steinicke.html)
 * [Prof. Yu-Kun Lai @ Cardiff University](https://users.cs.cf.ac.uk/Yukun.Lai/)
 * [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://people.wgtn.ac.nz/fanglue.zhang)
 * [Dr. Yong-Liang Yang @ University of Bath](http://www.yongliangyang.net/)

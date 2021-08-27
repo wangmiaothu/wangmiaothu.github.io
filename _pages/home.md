@@ -137,6 +137,12 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
 
++  **[ISMAR \'21]** Yi-Jun Li, Miao Wang, Frank Steinicke and Qinping Zhao. OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms. IEEE ISMAR 2021.
+
++  **[ISMAR \'21]** Ziming Ye, Junlong Chen, Miao Wang and Yong-Liang Yang. PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Reality Navigation. IEEE ISMAR 2021.
+
++  **[ISMAR \'21]** Ze-Yin Chen, Yi-Jun Li, Miao Wang, Frank Steinicke and Qinping Zhao. A Reinforcement Learning Approach to Redirected Walking with Passive Haptic Feedback. IEEE ISMAR 2021.
+
 +  **[VR \'21]** Miao Wang, Ziming Ye, Jinchuan Shi, Yong-Liang Yang. Scene Context-aware Indoor Object Selection and Movement in VR. IEEE VR 2021.
 
 +  **[VR \'21]** Yi-Jun Li, De-Rong Jin, Miao Wang, Jun-Long Chen, Frank Steinicke, Shi-Min Hu and Qinping Zhao. Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping. IEEE VR 2021.
