@@ -40,6 +40,7 @@ VR/AR/XR Research Groups in Academia (in alphabetical order):
 * [Nara Institute of Science and Technology - Cybernetics and Reality Engineering Laboratory (CARE)](https://carelab.info/en/)
 * [Osaka University - SENS Lab](https://www.sens.sys.es.osaka-u.ac.jp/)
 * [Polytechnic Institute of Bari - VR3Lab](https://www.dimeg.poliba.it/vr3lab/index.php/en/)
+* [Simon Fraser University - VVISE Lab](https://vvise.iat.sfu.ca/)
 * [Tsinghua University - Computer Graphics](http://cg.cs.tsinghua.edu.cn)
 * [Tsinghua University - Pervasive Human Computer Interaction](http://pi.cs.tsinghua.edu.cn)
 * [Universidad de Zaragoza - Graphics and Imaging Lab](http://graphics.unizar.es/index.html)

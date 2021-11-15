@@ -25,7 +25,7 @@ permalink: /
 
 <div><h4 style="font-family: HelveticaNeue-Light, arial, 'Optima','aleSC', Helvetica Neue, Source Sans Pro,Arial"><b>Miao Wang &nbsp;(汪 淼)</b></h4> </div>
 
-##### Assistant Professor 
+##### Associate Professor
 
 ##### [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
 
@@ -40,7 +40,7 @@ permalink: /
 ##### [[CV](http://miaowang.me/CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=BaOhbFsAAAAJ&hl=en)] [[中文主页](http://shi.buaa.edu.cn/wangmiao/zh_CN/index.htm)]
 
 
-Email: [miaow@buaa.edu.cn]()  
+Email: miaow [at] buaa [dot] edu [dot] cn 
 
 <!-- ##### Office: Room G-703, New Main Building, Beihang University -->
 
@@ -69,7 +69,7 @@ Email: [miaow@buaa.edu.cn]()
 ##### **Short Bio** 
 
 
-I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), Beihang University. Prior to this, I was a postdoc researcher (2016-2018) in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
+I am an associate professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [School of Computer Science and Engineering](http://scse.buaa.edu.cn), Beihang University. In 2016-2018, I did postdoc research in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a CSC joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
 
 <!-- I am serving on the S&T Program Committee of [ISMAR 2020](http://ismar20.org) and Program Committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a Conference Committee member of [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals. -->
 
@@ -77,11 +77,10 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 **Recent research interests:**
 
-* Virtual reality: content creation and exploration
-* Immersive experience in virtual environment
-* Redirected locomotion (check out [Awesome RDW](https://github.com/yaoling1997/Awesome-RDW) papers from the community!)
-* Intelligent image/video editing
-* 360 image and video
+* Virtual Reality: Content Creation and Exploration
+* Immersive Experience in Virtual Environments
+* Redirected Locomotion (check out [Awesome RDW](https://github.com/yaoling1997/Awesome-RDW) papers from the community!)
+* Computer Graphics with Deep Learning
 
 
 
@@ -90,7 +89,7 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 <br>
 
 <p style="color:red"><b>研究生招生: </b>
-团队招收2022级研究生（直博或硕士），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系。</p>
+团队每年招收研究生数名（硕士、直博或普博），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系。</p>
 
 <p style="color:red"><b>本科实习生招生: </b>
 团队长期接收北航本科生进课题组进行科研训练，有兴趣的同学请邮件联系。</p>
@@ -117,14 +116,14 @@ I am an assistant professor (2018-now) with the [State Key Laboratory of Virtual
 
 ##### **Academic Services** 
 
-+  Program Committee, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/)
-+  Program Committee, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/)
-+  Program Committee, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/)
-+  Program Committee, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/)
-+  Program Committee, ChinaVR 2021
-+  Program Committee, CCF CAD/CG 2021
-+  Program Committee, Chinagraph 2020
-+  Conference Committee, IEEE ISMAR 2019
++  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/)
++  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/)
++  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/)
++  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/)
++  Workshop Co-chair, ChinaVR 2021
++  Program Committee Member, CCF CAD/CG 2021
++  Program Committee Member, Chinagraph 2020
++  Conference Committee Member, IEEE ISMAR 2019
 
 ***
 
