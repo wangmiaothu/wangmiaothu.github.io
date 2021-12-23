@@ -136,6 +136,8 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
 
+<!-- +  **[VR \'22]** Yi-Jun Li, Jinchuan Shi, Fang-Lue Zhang and Miao Wang. Bullet Comments for 360° Video. IEEE VR 2022. -->
+
 +  **[ISMAR \'21]** Yi-Jun Li, Miao Wang, Frank Steinicke and Qinping Zhao. OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms. IEEE ISMAR 2021.
 
 +  **[ISMAR \'21]** Ziming Ye, Junlong Chen, Miao Wang and Yong-Liang Yang. PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Reality Navigation. IEEE ISMAR 2021.
