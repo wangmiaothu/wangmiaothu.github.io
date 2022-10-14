@@ -1,11 +1,13 @@
-- title: "Bullet Comments for 360° Video"
-  new: 1
-  image: danmu.png
+
+
+- title: "Efficient Flower Text Entry in Virtual Reality"
+  new: 0
+  image: flowertext.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Yi-Jun Li, Jinchuan Shi, Fang-Lue Zhang and Miao Wang*
+  authors: Jiaye Leng, Lili Wang*, Xiaolong Liu, Xuehuai Shi and Miao Wang
   link:
     url: 
-    display: Conditionally Accepted to IEEE VR 2022
+    display: IEEE Transactions on Visualization and Computer Graphics, to appear
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -14,14 +16,14 @@
     show: 1
     line: 0
 
-- title: "Rendering-Aware HDR Environment Map Prediction From A Single Image"
-  new: 1
-  image: envmap21.png
+- title: "A Comprehensive Review of Redirected Walking Techniques: Taxonomy, Methods, and Future Directions"
+  new: 0
+  image: soon.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Jun-Peng Xu, Chen-Yu Zuo, Fang-Lue Zhang and Miao Wang*
+  authors: Yi-Jun Li, Frank Steinicke and Miao Wang*
   link:
     url: 
-    display: Accepted to AAAI 2022
+    display: Journal of Computer Science and Technology, 37 (3), 561-583
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -29,6 +31,87 @@
     note: 2022
     show: 0
     line: 0
+
+
+- title: "Bullet Comments for 360° Video"
+  new: 0
+  image: danmu.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Yi-Jun Li, Jinchuan Shi, Fang-Lue Zhang and Miao Wang*
+  link:
+    url: 
+    display: IEEE VR 2022
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2022
+    show: 0
+    line: 0
+
+- title: "Rendering-Aware HDR Environment Map Prediction From A Single Image"
+  new: 0
+  image: envmap21.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jun-Peng Xu, Chen-Yu Zuo, Fang-Lue Zhang and Miao Wang*
+  link:
+    url: 
+    display: AAAI 2022 (Oral, Aceeptance rate 4.5%)
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2022
+    show: 0
+    line: 0
+
+# - title: "Transferable Virtual-Physical Environmental Alignment with Redirected Walking"
+#   new: 0
+#   image: travel.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
+#   link:
+#     url: 
+#     display: IEEE Transactions on Visualization and Computer Graphics, Major Revision
+#   highlight: 1
+#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2022
+#     show: 0
+#     line: 0
+
+# - title: "Tele-Fusion: Room-Scale Environmental Fusion for Efficient Teleportation and Collaboration in Separate Virtual Environments"
+#   new: 0
+#   image: telefusion.png
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
+#   link:
+#     url: 
+#     display: IEEE Transactions on Visualization and Computer Graphics, Major Revision
+#   highlight: 1
+#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2022
+#     show: 0
+#     line: 0
+
+# - title: "HoughLaneNet: Lane Detection with Deep Hough Transform-Based Feature Aggregation"
+#   new: 0
+#   image: soon.jpg
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Jia-Qi Zhang, Hao-Bin Duan, Jun-Long Chen, Ariel Shamir and Miao Wang
+#   link:
+#     url: 
+#     display: IEEE Transactions on Image Processing
+#   highlight: 1
+#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2022
+#     show: 0
+#     line: 0
 
 # - title: "EM-Gaze: Eye Context Correlation and Metric Learning for Gaze Estimation"
 #   new: 0

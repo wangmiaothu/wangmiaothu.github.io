@@ -88,13 +88,16 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 <br>
 
+<!-- <p style="color:red"><b>博士后招聘: </b>
+鹏城实验室招聘博士后。研究方向：虚拟/增强现实远程协同交互、基于深度学习的图形图像生成等。工作地点：深圳。待遇优厚，详见 <a href="https://hr.pcl.ac.cn/wt/pengchenglab/web/index/showNewsColumnInfoN300!getNewsById?brandCode=1&webColumnId=100801"><u>鹏城实验室博士后招收简章</u></a>。如有兴趣申报，请与我邮件联系。</p> -->
+
 <p style="color:red"><b>研究生招生: </b>
 团队每年招收研究生数名（硕士、直博或普博），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系。</p>
 
 <p style="color:red"><b>本科实习生招生: </b>
 团队长期接收北航本科生进课题组进行科研训练，有兴趣的同学请邮件联系。</p>
 
-<p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to shoot me an email with your CV\.</b></p>
+<!-- <p style="color:red"><b><u>Recruitment:</u> I am looking for undergraduate interns to work with me. If interested, please feel free to shoot me an email with your CV\.</b></p> -->
 
 
 
@@ -116,10 +119,11 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Academic Services** 
 
-+  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/)
-+  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/)
-+  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/)
++  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/)
++  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/)
++  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/), [<u>2022</u>](https://pg2022.org/)
 +  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/)
++  Program Co-chair, ICVRV 2022
 +  Workshop Co-chair, ChinaVR 2021
 +  Program Committee Member, CCF CAD/CG 2021
 +  Program Committee Member, Chinagraph 2020
@@ -136,7 +140,7 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
 
-<!-- +  **[VR \'22]** Yi-Jun Li, Jinchuan Shi, Fang-Lue Zhang and Miao Wang. Bullet Comments for 360° Video. IEEE VR 2022. -->
++  **[VR \'22]** Yi-Jun Li, Jinchuan Shi, Fang-Lue Zhang and Miao Wang. Bullet Comments for 360° Video. IEEE VR 2022.
 
 +  **[ISMAR \'21]** Yi-Jun Li, Miao Wang, Frank Steinicke and Qinping Zhao. OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms. IEEE ISMAR 2021.
 

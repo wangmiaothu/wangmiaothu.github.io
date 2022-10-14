@@ -25,7 +25,7 @@ VR/AR/XR Research Groups in Academia (in alphabetical order):
 
 * [Bauhaus-Universität Weimar - Virtual Reality and Visualization Research](https://www.uni-weimar.de/de/medien/professuren/medieninformatik/vr/)
 * [Beihang University - State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
-* [City University of Hong Kong - eXtended Reality Lab (XRL)](https://xr-lab.org)
+* [Clemson University - CU GAME LAB](https://computing.clemson.edu/cugame/index.html)
 * [Coburg University - mixedrealitylab](https://www.mixedrealitylab.de/index-en.html)
 * [Davidson College - Davidson Research in Immersive Virtual Environments Lab (DRIVE)](https://tabithapeck.com/research/)
 * [Delft University of Technology - Computer Graphics and Visualization (CGV)](http://graphics.tudelft.nl)
@@ -70,8 +70,9 @@ VR/AR/XR Research Groups in Academia (in alphabetical order):
 Here are my lovely collaborators (and their homepages):
 
 * [Prof. Shi-Min Hu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/prof_hu.htm)
+* [Prof. Song-Hai Zhang @ Tsinghua University](https://scholar.google.com/citations?user=AWtV-EQAAAAJ&hl=en)
 * [Prof. Kun Xu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~kun)
-* Prof. Song-Hai Zhang @ Tsinghua University
+* [Prof. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
 * [Prof. Ariel Shamir @ IDC Herzliya](http://www.faculty.idc.ac.il/arik/site/index.asp)
 * [Prof. Ralph Martin @ Cardiff University](https://www.cardiff.ac.uk/people/view/118143-martin-ralph)
 * [Prof. Peter Hall @ University of Bath](http://www.cs.bath.ac.uk/~pmh/start/home.html)
@@ -80,12 +81,12 @@ Here are my lovely collaborators (and their homepages):
 * [Dr. Fang-Lue Zhang @ Victoria University of Wellington](https://people.wgtn.ac.nz/fanglue.zhang)
 * [Dr. Yong-Liang Yang @ University of Bath](http://www.yongliangyang.net/)
 * [Dr. Christian Richardt @ University of Bath](http://richardt.name/)
-* [Prof. Shao-Ping Lu @ Nankai University](http://www.shaopinglu.net/)
-* [Prof. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
+* [Prof. Ana Serrano @ Universidad de Zaragoza](https://ana-serrano.github.io/)
+* [Prof. Shao-Ping Lu](http://www.shaopinglu.net/)
 * [Dr. Zhe Zhu @ Duke University](https://sites.duke.edu/zzhu/)
 * Mr. Xi-Jin Zhang @ Toutiao AI Lab
 * Mr. Xiao-Nan Fang @ Tsinghua University
-* [Mr. Ruilong Li @ University of Southern California](http://www.liruilong.cn/)
+* [Mr. Ruilong Li @ UC Berkeley](http://www.liruilong.cn/)
 
 
 <!-- <div><h4 style="font-family: Helvetica Neue,Source Sans Pro,Arial"><b>Courses</b></h4></div>
