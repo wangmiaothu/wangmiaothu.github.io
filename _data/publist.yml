@@ -1,4 +1,19 @@
 
+- title: "Transferable Virtual-Physical Environmental Alignment with Redirected Walking"
+  new: 0
+  image: travel.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2022
+    show: 1
+    line: 0
 
 - title: "Efficient Flower Text Entry in Virtual Reality"
   new: 0
@@ -13,7 +28,7 @@
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2022
-    show: 1
+    show: 0
     line: 0
 
 - title: "A Comprehensive Review of Redirected Walking Techniques: Taxonomy, Methods, and Future Directions"
@@ -65,21 +80,7 @@
     show: 0
     line: 0
 
-# - title: "Transferable Virtual-Physical Environmental Alignment with Redirected Walking"
-#   new: 0
-#   image: travel.png
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
-#   link:
-#     url: 
-#     display: IEEE Transactions on Visualization and Computer Graphics, Major Revision
-#   highlight: 1
-#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: 2022
-#     show: 0
-#     line: 0
+
 
 # - title: "Tele-Fusion: Room-Scale Environmental Fusion for Efficient Teleportation and Collaboration in Separate Virtual Environments"
 #   new: 0
@@ -115,12 +116,12 @@
 
 # - title: "EM-Gaze: Eye Context Correlation and Metric Learning for Gaze Estimation"
 #   new: 0
-#   image: advp.png
+#   image: soon.jpg
 #   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
 #   authors: Jin-Chao Zhou, Guo-An Li, Feng Shi, Xiaoyan Guo, Pengfei Wan and Miao Wang*
 #   link:
 #     url: 
-#     display: Technical Report
+#     display: Visual Computing for Industry, Biomedicine, and Art, to appear.
 #   highlight: 1
 #   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
 #   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
