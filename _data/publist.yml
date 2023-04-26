@@ -1,4 +1,53 @@
 
+- title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
+  new: 0
+  image: telefusion.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, Accepted.
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 1
+    line: 0
+
+# - title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination for Augmented Reality Applications"
+#   new: 0
+#   image: soon.jpg
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
+#   link:
+#     url: 
+#     display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+#   highlight: 1
+#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2023
+#     show: 0
+#     line: 0
+
+
+- title: "Multi-User Redirected Walking in Separate Physical Spaces for Online VR Scenarios"
+  new: 0
+  image: multiredirect.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Sen-Zhe Xu, Jia-Hong Liu, Miao Wang, Fang-Lue Zhang and Song-Hai Zhang
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2023.3251648).
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 0
+    line: 0
+
 - title: "Transferable Virtual-Physical Environmental Alignment with Redirected Walking"
   new: 0
   image: travel.png
@@ -6,7 +55,7 @@
   authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2022.3224073).
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -71,7 +120,7 @@
   authors: Jun-Peng Xu, Chen-Yu Zuo, Fang-Lue Zhang and Miao Wang*
   link:
     url: 
-    display: AAAI 2022 (Oral, Aceeptance rate 4.5%)
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, 36(3), 2857-2865. (AAAI 2022 Oral, Aceeptance rate 4.5%)
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
