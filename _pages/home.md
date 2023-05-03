@@ -120,9 +120,10 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 ##### **Academic Services** 
 
 +  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/)
-+  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/)
++  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/), [<u>2023 (Conference Papers)</u>](https://ismar23.org/)
 +  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/), [<u>2022</u>](https://pg2022.org/)
-+  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/)
++  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/)
++  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/)
 +  Program Co-chair, ICVRV 2022
 +  Workshop Co-chair, ChinaVR 2021
 +  Program Committee Member, CCF CAD/CG 2021
@@ -139,6 +140,10 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 *** -->
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
+
++  **[TVCG \'23]** Miao Wang, Ze-Yin Chen, Wen-Chuan Cai, Frank Steinicke. Transferable Virtual-Physical Environmental Alignment with Redirected Walking. IEEE TVCG 2023.
+
++  **[TVCG \'23]** Miao Wang, Yi-Jun Li, Jinchuan Shi, Frank Steinicke. SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments. IEEE TVCG 2023.
 
 +  **[VR \'22]** Yi-Jun Li, Jinchuan Shi, Fang-Lue Zhang and Miao Wang. Bullet Comments for 360° Video. IEEE VR 2022.
 

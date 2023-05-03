@@ -1,20 +1,4 @@
 
-- title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
-  new: 0
-  image: telefusion.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
-  link:
-    url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, Accepted.
-  highlight: 1
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2023
-    show: 1
-    line: 0
-
 # - title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination for Augmented Reality Applications"
 #   new: 0
 #   image: soon.jpg
@@ -28,8 +12,26 @@
 #   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
 #   year: 
 #     note: 2023
-#     show: 0
+#     show: 1
 #     line: 0
+
+
+- title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
+  new: 0
+  image: telefusion.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2023.3271709).
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 1
+    line: 0
+
 
 
 - title: "Multi-User Redirected Walking in Separate Physical Spaces for Online VR Scenarios"
