@@ -119,8 +119,9 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Academic Services** 
 
-+  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/)
++  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/), [<u>2024</u>](https://ieeevr.org/2024/)
 +  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/), [<u>2023 (Conference Papers)</u>](https://ismar23.org/)
++  Program Committee Member, ACM VRST [<u>2023</u>](https://vrst.acm.org/vrst2023/)
 +  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/), [<u>2022</u>](https://pg2022.org/)
 +  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/)
 +  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/)

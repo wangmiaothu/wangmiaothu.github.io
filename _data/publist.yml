@@ -15,6 +15,23 @@
 #     show: 1
 #     line: 0
 
+# - title: "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+#   new: 0
+#   image: bakedavatar.jpg
+#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+#   authors: Hao-Bin Duan, Miao Wang*, Jinchuan Shi, Xuchuan Chen and Yan-Pei Cao
+#   link:
+#     url: 
+#     display: ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2023), Conditionally Accepted.
+#   highlight: 1
+#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+#   year: 
+#     note: 2023
+#     show: 1
+#     line: 0
+
+
 
 - title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
   new: 0
