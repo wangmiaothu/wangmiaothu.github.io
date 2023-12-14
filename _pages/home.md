@@ -142,6 +142,8 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
 
++  **[TOG \'23]** Hao-Bin Duan, Miao Wang, Jin-Chuan Shi, Xu-Chuan Chen, Yan-Pei Cao. BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis. ACM TOG 2023.
+
 +  **[TVCG \'23]** Miao Wang, Ze-Yin Chen, Wen-Chuan Cai, Frank Steinicke. Transferable Virtual-Physical Environmental Alignment with Redirected Walking. IEEE TVCG 2023.
 
 +  **[TVCG \'23]** Miao Wang, Yi-Jun Li, Jinchuan Shi, Frank Steinicke. SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments. IEEE TVCG 2023.

@@ -1,37 +1,110 @@
 
-# - title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination for Augmented Reality Applications"
-#   new: 0
-#   image: soon.jpg
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
-#   link:
-#     url: 
-#     display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
-#   highlight: 1
-#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: 2023
-#     show: 1
-#     line: 0
-
-# - title: "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
-#   new: 0
-#   image: bakedavatar.jpg
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Hao-Bin Duan, Miao Wang*, Jinchuan Shi, Xuchuan Chen and Yan-Pei Cao
-#   link:
-#     url: 
-#     display: ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2023), Conditionally Accepted.
-#   highlight: 1
-#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: 2023
-#     show: 1
-#     line: 0
+- title: "Spatially-Preserving Skinned Motion Retargeting with Hybrid Skeleton and Mesh Representation"
+  new: 0
+  image: smrnet.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Jia-Qi Zhang, Fu-Cheng Zhang, Fang-Lue Zhang
+  link:
+    url: https://buaavrcg.github.io/SkinnedMotionRetargeting
+    display: Technical Report
+    # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 1
+    line: 0
 
 
+- title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination"
+  new: 0
+  image: perceptual.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
+  link:
+    url: https://buaavrcg.github.io/PerceptualOutdoorIllumination
+    display: Technical Report
+    # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+
+- title: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding"
+  new: 0
+  image: le3dgs.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jin-Chuan Shi, Miao Wang*, Hao-Bin Duan, Shao-Hua Guan
+  link:
+    url: https://buaavrcg.github.io/LEGaussians
+    display: https://arxiv.org/abs/2311.18482
+    # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+- title: "PaintNeSF: Artistic Creation of Stylized Scenes with Vectorized 3D Strokes"
+  new: 0
+  image: paintnesf.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Hao-Bin Duan, Miao Wang*, Yan-Xun Li, Yong-Liang Yang
+  link:
+    url: https://buaavrcg.github.io/PaintNeSF
+    display: https://arxiv.org/abs/2311.15637
+    # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/PaintNeSF/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+- title: "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+  new: 0
+  image: bakedavatar.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Hao-Bin Duan, Miao Wang*, Jinchuan Shi, Xuchuan Chen and Yan-Pei Cao
+  link:
+    url: https://buaavrcg.github.io/BakedAvatar/
+    display: ACM Transactions on Graphics, 42 (6), Article No. 225, 2023 (Proc. SIGGRAPH Asia 2023).
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/BakedAvatar/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 1
+    line: 1
+
+- title: "HoughLaneNet: Lane detection with deep hough transform and dynamic convolution"
+  new: 0
+  image: lanenet.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jia-Qi Zhang, Hao-Bin Duan, Jun-Long Chen, Ariel Shamir and Miao Wang*
+  link:
+    url: 
+    display: Computers & Graphics, Volume 116, Pages 82-92, 2023 (CAD/Graphics 2023, <b><font color="#FF0000">Best Paper Award</font></b>).
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 0
+    line: 0
 
 - title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
   new: 0
@@ -46,7 +119,23 @@
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2023
-    show: 1
+    show: 0
+    line: 0
+
+- title: "EM-Gaze: Eye Context Correlation and Metric Learning for Gaze Estimation"
+  new: 0
+  image: emgaze.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jin-Chao Zhou, Guo-An Li, Feng Shi, Xiaoyan Guo, Pengfei Wan and Miao Wang*
+  link:
+    url: 
+    display: Visual Computing for Industry, Biomedicine, and Art, 6, No. 8, 2023.
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 0
     line: 0
 
 
@@ -81,7 +170,7 @@
   year: 
     note: 2022
     show: 1
-    line: 0
+    line: 1
 
 - title: "Efficient Flower Text Entry in Virtual Reality"
   new: 0
@@ -139,7 +228,7 @@
   authors: Jun-Peng Xu, Chen-Yu Zuo, Fang-Lue Zhang and Miao Wang*
   link:
     url: 
-    display: Proceedings of the AAAI Conference on Artificial Intelligence, 36(3), 2857-2865. (AAAI 2022 Oral, Aceeptance rate 4.5%)
+    display: Proceedings of the AAAI Conference on Artificial Intelligence, 36 (3), 2857-2865. (Oral, Aceeptance rate 4.5%)
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -182,21 +271,7 @@
 #     show: 0
 #     line: 0
 
-# - title: "EM-Gaze: Eye Context Correlation and Metric Learning for Gaze Estimation"
-#   new: 0
-#   image: soon.jpg
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Jin-Chao Zhou, Guo-An Li, Feng Shi, Xiaoyan Guo, Pengfei Wan and Miao Wang*
-#   link:
-#     url: 
-#     display: Visual Computing for Industry, Biomedicine, and Art, to appear.
-#   highlight: 1
-#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: Pre-print
-#     show: 0
-#     line: 0
+
 
 - title: "Effects of virtual environment and self-representations on perception and physical performance in redirected jumping"
   new: 0
