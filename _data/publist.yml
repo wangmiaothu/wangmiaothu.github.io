@@ -1,5 +1,5 @@
 
-- title: "Spatially-Preserving Skinned Motion Retargeting with Hybrid Skeleton and Mesh Representation"
+- title: "Spatially-Preserving Skinned Motion Retargeting via Unified Feature Embedding Learning"
   new: 0
   image: smrnet.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
@@ -18,26 +18,9 @@
     line: 0
 
 
-- title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination"
-  new: 0
-  image: perceptual.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
-  link:
-    url: https://buaavrcg.github.io/PerceptualOutdoorIllumination
-    display: Technical Report
-    # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
-  highlight: 1
-  news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: Technical Report
-    show: 0
-    line: 0
 
 
-- title: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding"
+- title: "Language Embedded 3D Gaussians"
   new: 0
   image: le3dgs.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
@@ -73,38 +56,23 @@
     show: 0
     line: 0
 
-- title: "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+- title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination"
   new: 0
-  image: bakedavatar.jpg
+  image: perceptual.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Hao-Bin Duan, Miao Wang*, Jinchuan Shi, Xuchuan Chen and Yan-Pei Cao
+  authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
   link:
-    url: https://buaavrcg.github.io/BakedAvatar/
-    display: ACM Transactions on Graphics, 42 (6), Article No. 225, 2023 (Proc. SIGGRAPH Asia 2023).
+    url: https://buaavrcg.github.io/PerceptualOutdoorIllumination
+    # display: Technical Report
+    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
   highlight: 1
-  news2: <a href = "https://buaavrcg.github.io/BakedAvatar/">Project Page</a>
+  news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2023
     show: 1
     line: 1
-
-- title: "HoughLaneNet: Lane detection with deep hough transform and dynamic convolution"
-  new: 0
-  image: lanenet.jpg
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Jia-Qi Zhang, Hao-Bin Duan, Jun-Long Chen, Ariel Shamir and Miao Wang*
-  link:
-    url: 
-    display: Computers & Graphics, Volume 116, Pages 82-92, 2023 (CAD/Graphics 2023, <b><font color="#FF0000">Best Paper Award</font></b>).
-  highlight: 1
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2023
-    show: 0
-    line: 0
 
 - title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
   new: 0
@@ -122,9 +90,44 @@
     show: 0
     line: 0
 
+- title: "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+  new: 0
+  image: bakedavatar.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Hao-Bin Duan, Miao Wang*, Jinchuan Shi, Xuchuan Chen and Yan-Pei Cao
+  link:
+    url: https://buaavrcg.github.io/BakedAvatar/
+    display: ACM Transactions on Graphics, 42 (6), Article No. 225, 2023 (Proc. SIGGRAPH Asia 2023).
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/BakedAvatar/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 0
+    line: 0
+
+- title: "HoughLaneNet: Lane detection with deep hough transform and dynamic convolution"
+  new: 0
+  image: lanenet.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jia-Qi Zhang, Hao-Bin Duan, Jun-Long Chen, Ariel Shamir and Miao Wang*
+  link:
+    url: 
+    display: Computers & Graphics, Volume 116, Pages 82-92, 2023 (CAD/Graphics 2023, <b><font color="#FF0000">Best Paper Award</font></b>).
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2023
+    show: 0
+    line: 0
+
+
+
 - title: "EM-Gaze: Eye Context Correlation and Metric Learning for Gaze Estimation"
   new: 0
-  image: emgaze.png
+  image: soon.jpg
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Jin-Chao Zhou, Guo-An Li, Feng Shi, Xiaoyan Guo, Pengfei Wan and Miao Wang*
   link:
