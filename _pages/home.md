@@ -94,6 +94,8 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 <p style="color:red"><b>研究生招生: </b>
 团队每年招收研究生数名（硕士、直博或普博），研究方向为虚拟/增强现实、计算机图形学和计算机视觉。团队注重国际合作，与领域内顶尖学者保持密切学术合作关系；关注特色发展，根据学生的特点进行个性化培养。欢迎热爱科研、踏实做事、具有创造力的同学加入团队。有兴趣的同学请邮件联系。</p>
 
+<p style="color:red"><b>Currently I am not able to supervise international Ph.D/master applicants.</b></p>
+
 <p style="color:red"><b>本科实习生招生: </b>
 团队长期接收北航本科生进课题组进行科研训练，有兴趣的同学请邮件联系。</p>
 
@@ -126,6 +128,7 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 +  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/)
 +  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/)
 +  Program Co-chair, ICVRV 2022
++  Organization Committee Co-chair, ChinaVR 2023
 +  Workshop Co-chair, ChinaVR 2021
 +  Program Committee Member, CCF CAD/CG 2021
 +  Program Committee Member, Chinagraph 2020
@@ -141,6 +144,8 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 *** -->
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
+
++  **[TVCG \'23]** Miao Wang, Jin-Chao Zhou, Wei-Qi Feng, Yu-Zhu Jiang, Ana Serrano. Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination. IEEE TVCG 2023.
 
 +  **[TOG \'23]** Hao-Bin Duan, Miao Wang, Jin-Chuan Shi, Xu-Chuan Chen, Yan-Pei Cao. BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis. ACM TOG 2023.
 
