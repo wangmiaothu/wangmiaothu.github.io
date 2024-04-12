@@ -127,7 +127,6 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 +  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/), [<u>2022</u>](https://pg2022.org/)
 +  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/)
 +  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/)
-+  Program Co-chair, ICVRV 2022
 +  Organization Committee Co-chair, ChinaVR 2023
 +  Workshop Co-chair, ChinaVR 2021
 +  Program Committee Member, CCF CAD/CG 2021
