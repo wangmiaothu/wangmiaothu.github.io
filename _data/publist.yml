@@ -30,9 +30,9 @@
   link:
     url: https://buaavrcg.github.io/SkinnedMotionRetargeting
     # display: Technical Report
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2024.3423426)).
   highlight: 1
-  news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
+  # news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
@@ -120,7 +120,7 @@
   authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2023.3271709).
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (8), 4615-4630.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -189,7 +189,7 @@
   authors: Sen-Zhe Xu, Jia-Hong Liu, Miao Wang, Fang-Lue Zhang and Song-Hai Zhang
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2023.3251648).
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (4), 1916 - 1926.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -205,7 +205,7 @@
   authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2022.3224073).
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (3), 1696 - 1709.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -221,7 +221,7 @@
   authors: Jiaye Leng, Lili Wang*, Xiaolong Liu, Xuehuai Shi and Miao Wang
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, to appear
+    display: IEEE Transactions on Visualization and Computer Graphics, 28 (11), 3662 - 3672.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
@@ -237,7 +237,7 @@
   authors: Yi-Jun Li, Frank Steinicke and Miao Wang*
   link:
     url: 
-    display: Journal of Computer Science and Technology, 37 (3), 561-583
+    display: Journal of Computer Science and Technology, 37 (3), 561-583.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
