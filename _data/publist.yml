@@ -1,21 +1,4 @@
 
-- title: "Spatially-Preserving Skinned Motion Retargeting with Hybrid Skeleton and Mesh Representation"
-  new: 0
-  image: smrnet.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Jia-Qi Zhang, Fu-Cheng Zhang, Fang-Lue Zhang
-  link:
-    url: https://buaavrcg.github.io/SkinnedMotionRetargeting
-    display: Technical Report
-    # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
-  highlight: 1
-  news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: Technical Report
-    show: 1
-    line: 0
 
 
 
@@ -38,6 +21,25 @@
 #     show: 0
 #     line: 0
 
+
+- title: "Skinned Motion Retargeting with Preservation of Body Part Relationships"
+  new: 0
+  image: smrnet.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jia-Qi Zhang, Miao Wang*, Fu-Cheng Zhang, Fang-Lue Zhang
+  link:
+    url: https://buaavrcg.github.io/SkinnedMotionRetargeting
+    # display: Technical Report
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2024
+    show: 1
+    line: 0
+
 - title: "Neural 3D Strokes: Creating Stylized 3D Scenes with Vectorized 3D Strokes"
   new: 0
   image: paintnesf.png
@@ -53,7 +55,7 @@
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2024
-    show: 1
+    show: 0
     line: 1
 
 - title: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding"
@@ -101,7 +103,7 @@
   link:
     url: https://buaavrcg.github.io/PerceptualOutdoorIllumination
     # display: Technical Report
-    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2023.3347560).
   highlight: 1
   news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
