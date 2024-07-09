@@ -3,23 +3,41 @@
 
 
 
-# - title: "Language Embedded 3D Gaussians"
-#   new: 0
-#   image: le3dgs.png
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Jin-Chuan Shi, Miao Wang*, Hao-Bin Duan, Shao-Hua Guan
-#   link:
-#     url: https://buaavrcg.github.io/LEGaussians
-#     display: https://arxiv.org/abs/2311.18482
-#     # display: IEEE Transactions on Visualization and Computer Graphics, Early Access.
-#   highlight: 1
-#   news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
-#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: Technical Report
-#     show: 0
-#     line: 0
+- title: "DGM-RDW: Redirected Walking with Dynamic Geometric Mapping Between Environments"
+  new: 0
+  image: RDW2024.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Qian Wang, Yi-Jun Li
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Technical Report
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Preprint
+    show: 1
+    line: 0
+
+- title: "Semantics-Aware Avatar Motion Adaption for Indoor Cross-Scene AR Telepresence"
+  new: 0
+  image: ARTele.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Yi-Jun Li, Hao-Zhong Yang, Wen-Tong Shu, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Technical Report
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Preprint
+    show: 0
+    line: 0
 
 
 - title: "Skinned Motion Retargeting with Preservation of Body Part Relationships"
@@ -38,7 +56,7 @@
   year: 
     note: 2024
     show: 1
-    line: 0
+    line: 1
 
 - title: "Neural 3D Strokes: Creating Stylized 3D Scenes with Vectorized 3D Strokes"
   new: 0

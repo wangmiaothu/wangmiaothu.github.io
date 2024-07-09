@@ -19,6 +19,8 @@ permalink: /publications/
 
 + **IEEE Transactions on Visualization and Computer Graphics (TVCG)** - Virtual/Augmented Reality, Graphics and Visualization
 
++ **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)** - Pattern Analysis, Artificial Intelligence
+
 + **IEEE Transactions on Image Processing (TIP)** - Image Processing
 
 + **IEEE Conference on Virtual Reality and 3D User Interfaces (VR)** - Virtual Reality
