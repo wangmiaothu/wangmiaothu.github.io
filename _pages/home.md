@@ -77,10 +77,13 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 **Recent research interests:**
 
-* Virtual Reality: Content Creation and Exploration
-* Immersive Experience in Virtual Environments
+* 3D AIGC for XR
+* Digital Avatars
 * Redirected Locomotion (check out [Awesome RDW](https://github.com/yaoling1997/Awesome-RDW) papers from the community!)
-* Computer Graphics with Deep Learning
+* Immersive Collaborative Interaction in VR/AR
+
+
+
 
 
 
@@ -121,17 +124,15 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Academic Services** 
 
-+  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/), [<u>2024</u>](https://ieeevr.org/2024/)
-+  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/), [<u>2023 (Conference Papers)</u>](https://ismar23.org/)
-+  Program Committee Member, ACM VRST [<u>2023</u>](https://vrst.acm.org/vrst2023/)
-+  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/), [<u>2022</u>](https://pg2022.org/)
-+  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/)
-+  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/)
-+  Organization Committee Co-chair, ChinaVR 2023
-+  Workshop Co-chair, ChinaVR 2021
-+  Program Committee Member, CCF CAD/CG 2021
-+  Program Committee Member, Chinagraph 2020
-+  Conference Committee Member, IEEE ISMAR 2019
++  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/), [<u>2024</u>](https://ieeevr.org/2024/), [<u>2025</u>](https://ieeevr.org/2025/)
++  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/), [<u>2023 (Conference Papers)</u>](https://ismar23.org/), [<u>2024</u>](https://ieeeismar.org/)
++  Program Committee Member, ACM VRST [<u>2023</u>](https://vrst.acm.org/vrst2023/), [<u>2024</u>](https://vrst.hosting.acm.org/vrst2024/)
++  Program Committee Member, Pacific Graphics [<u>2020</u>](https://pg2020.org/), [<u>2021</u>](https://pg2021.org/), [<u>2022</u>](https://pg2022.org/), [<u>2024</u>](http://pg2024.hsu.edu.cn/)
++  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/), [<u>2024</u>](http://iccvm.org/2024/), [<u>2025</u>](http://iccvm.org/2025/)
++  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/), [<u>2024</u>](https://sap.acm.org/2024/)
++  Program Committee Co-chair, ChinaVR [<u>2024</u>](https://chinavr2024.xmu.edu.cn/)
+
+
 
 ***
 
@@ -144,7 +145,18 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ##### **Selected Publications** (See [Full Publications](http://miaowang.me/publications)):
 
-+  **[TVCG \'23]** Miao Wang, Jin-Chao Zhou, Wei-Qi Feng, Yu-Zhu Jiang, Ana Serrano. Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination. IEEE TVCG 2023.
++  **[TVCG/VR \'25]** Miao Wang, Wen-Tong Shu, Yi-Jun Li, Wanwan Li. 
+Can I Get There? Negotiated User-to-User Teleportations in Social VR. IEEE TVCG 2025.
+
++  **[TVCG \'24]** Yi-Jun Li, Hao-Zhong Yang, Wen-Tong Shu, Miao Wang. Semantics-Aware Avatar Locomotion Adaption for Indoor Cross-Scene AR Telepresence. IEEE TVCG 2024.
+
++  **[TVCG \'24]** Jia-Qi Zhang, Miao Wang, Fu-Cheng Zhang, Fang-Lue Zhang. Skinned Motion Retargeting with Preservation of Body Part Relationships. IEEE TVCG 2024.
+
++  **[TVCG \'24]** Miao Wang, Jin-Chao Zhou, Wei-Qi Feng, Yu-Zhu Jiang, Ana Serrano. Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination. IEEE TVCG 2024.
+
++  **[CVPR \'24]** Jin-Chuan Shi, Miao Wang, Hao-Bin Duan, Shao-Hua Guan. Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding. IEEE CVPR 2024.
+
++  **[CVPR \'24]** Hao-Bin Duan, Miao Wang, Yan-Xun Li, Yong-Liang Yang. Neural 3D Strokes: Creating Stylized 3D Scenes with Vectorized 3D Strokes. IEEE CVPR 2024.
 
 +  **[TOG \'23]** Hao-Bin Duan, Miao Wang, Jin-Chuan Shi, Xu-Chuan Chen, Yan-Pei Cao. BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis. ACM TOG 2023.
 

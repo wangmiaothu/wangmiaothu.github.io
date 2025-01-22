@@ -21,7 +21,28 @@
     show: 1
     line: 0
 
-- title: "Semantics-Aware Avatar Motion Adaption for Indoor Cross-Scene AR Telepresence"
+
+
+
+- title: "Can I Get There? Negotiated User-to-User Teleportations in Social VR"
+  new: 0
+  image: Nego.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang*, Wen-Tong Shu, Yi-Jun Li, Wanwan Li
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: IEEE Transactions on Visualization and Computer Graphics (IEEE VR 2025), to appear.
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2025
+    show: 1
+    line: 1
+
+- title: "Semantics-Aware Avatar Locomotion Adaption for Indoor Cross-Scene AR Telepresence"
   new: 0
   image: ARTele.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
@@ -29,16 +50,15 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: Technical Report
+    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
-    note: Preprint
+    note: 2025
     show: 0
     line: 0
-
 
 - title: "Skinned Motion Retargeting with Preservation of Body Part Relationships"
   new: 0
@@ -54,9 +74,65 @@
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
+    note: 2025
+    show: 0
+    line: 0
+
+
+
+
+
+
+- title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination"
+  new: 0
+  image: perceptual.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
+  link:
+    url: https://buaavrcg.github.io/PerceptualOutdoorIllumination
+    # display: Technical Report
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (9), 6468-6480.
+  highlight: 1
+  news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
     note: 2024
     show: 1
     line: 1
+    
+
+- title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
+  new: 0
+  image: telefusion.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (8), 4615-4630.
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2024
+    show: 0
+    line: 0
+
+- title: "Transferable Virtual-Physical Environmental Alignment with Redirected Walking"
+  new: 0
+  image: travel.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
+  link:
+    url: 
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (3), 1696 - 1709.
+  highlight: 1
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2024
+    show: 0
+    line: 0
 
 - title: "Neural 3D Strokes: Creating Stylized 3D Scenes with Vectorized 3D Strokes"
   new: 0
@@ -113,39 +189,23 @@
     show: 0
     line: 0
 
-- title: "Studying the Effect of Material and Geometry on Perceptual Outdoor Illumination"
+- title: "Multi-User Redirected Walking in Separate Physical Spaces for Online VR Scenarios"
   new: 0
-  image: perceptual.png
+  image: multiredirect.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Jinchao Zhou, Wei-Qi Feng, Yuzhu Jiang and Ana Serrano
-  link:
-    url: https://buaavrcg.github.io/PerceptualOutdoorIllumination
-    # display: Technical Report
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2023.3347560).
-  highlight: 1
-  news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2023
-    show: 1
-    line: 1
-
-- title: "SceneFusion: Room-Scale Environmental Fusion for Efficient Traveling Between Separate Virtual Environments"
-  new: 0
-  image: telefusion.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Yi-Jun Li, Jinchuan Shi and Frank Steinicke
+  authors: Sen-Zhe Xu, Jia-Hong Liu, Miao Wang, Fang-Lue Zhang and Song-Hai Zhang
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, 30 (8), 4615-4630.
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (4), 1916 - 1926.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
-    note: 2023
+    note: 2024
     show: 0
     line: 0
+
+
 
 - title: "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
   new: 0
@@ -161,8 +221,8 @@
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2023
-    show: 0
-    line: 0
+    show: 1
+    line: 1
 
 - title: "HoughLaneNet: Lane detection with deep hough transform and dynamic convolution"
   new: 0
@@ -199,39 +259,6 @@
     line: 0
 
 
-
-- title: "Multi-User Redirected Walking in Separate Physical Spaces for Online VR Scenarios"
-  new: 0
-  image: multiredirect.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Sen-Zhe Xu, Jia-Hong Liu, Miao Wang, Fang-Lue Zhang and Song-Hai Zhang
-  link:
-    url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, 30 (4), 1916 - 1926.
-  highlight: 1
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2023
-    show: 0
-    line: 0
-
-- title: "Transferable Virtual-Physical Environmental Alignment with Redirected Walking"
-  new: 0
-  image: travel.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
-  link:
-    url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, 30 (3), 1696 - 1709.
-  highlight: 1
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2022
-    show: 1
-    line: 1
-
 - title: "Efficient Flower Text Entry in Virtual Reality"
   new: 0
   image: flowertext.png
@@ -245,8 +272,8 @@
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
     note: 2022
-    show: 0
-    line: 0
+    show: 1
+    line: 1
 
 - title: "A Comprehensive Review of Redirected Walking Techniques: Taxonomy, Methods, and Future Directions"
   new: 0

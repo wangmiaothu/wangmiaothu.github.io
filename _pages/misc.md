@@ -83,9 +83,9 @@ Here are my lovely collaborators (and their homepages):
 * [Dr. Christian Richardt @ University of Bath](http://richardt.name/)
 * [Prof. Ana Serrano @ Universidad de Zaragoza](https://ana-serrano.github.io/)
 * [Prof. Shao-Ping Lu](http://www.shaopinglu.net/)
-* [Dr. Zhe Zhu @ Duke University](https://sites.duke.edu/zzhu/)
+* [Dr. Zhe Zhu @ Samsung Research America](http://zhezhu.me/)
 * Mr. Xi-Jin Zhang @ Toutiao AI Lab
-* Mr. Xiao-Nan Fang @ Tsinghua University
+* [Dr. Xiao-Nan Fang @ Macau University of Science and Technology](https://wm-fs2.must.edu.mo/group1/M00/01/7D/rBCDpGWdGmWARBWmAAGMeAUsRxY297.pdf)
 * [Mr. Ruilong Li @ UC Berkeley](http://www.liruilong.cn/)
 
 
