@@ -69,7 +69,7 @@ Email: miaow [at] buaa [dot] edu [dot] cn
 ##### **Short Bio** 
 
 
-I am an associate professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [School of Computer Science and Engineering](http://scse.buaa.edu.cn), Beihang University. In 2016-2018, I did postdoc research in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a CSC joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
+I am an Associate Professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [School of Computer Science and Engineering](http://scse.buaa.edu.cn), Beihang University. In 2016-2018, I did postdoc research in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a CSC joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
 
 <!-- I am serving on the S&T Program Committee of [ISMAR 2020](http://ismar20.org) and Program Committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a Conference Committee member of [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals. -->
 
@@ -122,6 +122,18 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 ***
 
+
+
+
+##### **Selected Awards** 
+
++  IEEE VR 2025 Best Paper Award
++  CAD/Graphics 2023 Best Paper Award
++  CVMJ 2019 Honorable Mention Award
++  CVMJ 2016 Honorable Mention Award
+
+***
+
 ##### **Academic Services** 
 
 +  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/), [<u>2024</u>](https://ieeevr.org/2024/), [<u>2025</u>](https://ieeevr.org/2025/)
@@ -131,7 +143,6 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 +  Program Committee Member, CVM [<u>2020</u>](http://iccvm.org/2020/), [<u>2021</u>](http://iccvm.org/2021/), [<u>2022</u>](http://iccvm.org/2022/), [<u>2023</u>](http://iccvm.org/2023/), [<u>2024</u>](http://iccvm.org/2024/), [<u>2025</u>](http://iccvm.org/2025/)
 +  Program Committee Member, ACM SAP [<u>2022</u>](https://sap.acm.org/2022/), [<u>2023</u>](https://sap.acm.org/2023/), [<u>2024</u>](https://sap.acm.org/2024/)
 +  Program Committee Co-chair, ChinaVR [<u>2024</u>](https://chinavr2024.xmu.edu.cn/)
-
 
 
 ***
@@ -147,6 +158,8 @@ I am an associate professor with the [State Key Laboratory of Virtual Reality Te
 
 +  **[TVCG/VR \'25]** Miao Wang, Wen-Tong Shu, Yi-Jun Li, Wanwan Li. 
 Can I Get There? Negotiated User-to-User Teleportations in Social VR. IEEE TVCG 2025.
+
++  **[CVPR \'25]** Weiqi Feng<sup>&dagger;</sup>, Dong Han<sup>&dagger;</sup>, Zekang Zhou, Shunkai Li, Xiaoqiang Liu, Pengfei Wan, Di ZHANG, Miao Wang. GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections. IEEE CVPR 2025.
 
 +  **[TVCG \'24]** Yi-Jun Li, Hao-Zhong Yang, Wen-Tong Shu, Miao Wang. Semantics-Aware Avatar Locomotion Adaption for Indoor Cross-Scene AR Telepresence. IEEE TVCG 2024.
 
