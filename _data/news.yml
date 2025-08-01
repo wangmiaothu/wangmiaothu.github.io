@@ -1,18 +1,19 @@
 # - date: Aug. 2019
 #   headline: My research is awarded by the Young Elite Scientists Sponsorship Program, China Graphics Society.
+- date: 2025/07
+  headline: <span>&#128293;&#128293;&#128293;</span> <font color="#FF0000"><b>Three papers about Social VR interactions are accepted to IEEE ISMAR 2025</b></font>.
 
+- date: 2025/03
+  headline: <span>&#128293;&#128293;&#128293;</span> <font color="#FF0000"><b>Our work about negotiated user-to-user teleportation won an IEEE VR 2025 Best Paper Award</b></font>.
 
-- date: 2025/3
-  headline: Our work about negotiated user-to-user teleportation won an <font color="#FF0000"><b>IEEE VR 2025 Best Paper Award</b></font>.
-
-- date: 2025/3
+- date: 2025/03
   headline: Our work about high-fidelity Gaussian head avatars is accepted to CVPR 2025.
 
-- date: 2025/1
+- date: 2025/01
   headline: Our work about negotiated user-to-user teleportation is accepted to IEEE TVCG (IEEE VR 2025).
 
-- date: 2024/3
-  headline: Three papers <a href="https://buaavrcg.github.io/LEGaussians/">LEGaussians</a>, <a href="http://buaavrcg.github.io/Neural3DStrokes/">Neural 3D Strokes</a>, and CLIP-RC are accepted to CVPR 2024.
+- date: 2024/03
+  headline: Three papers <a href="https://buaavrcg.github.io/LEGaussians/">LEGaussians</a>, <a href="http://buaavrcg.github.io/Neural3DStrokes/">Neural 3D Strokes</a>, and <a href="https://github.com/uyzhang/CLIP-RC">CLIP-RC</a> are accepted to CVPR 2024.
 
 - date: 2023/12
   headline: Our work about perceptual outdoor illumination is accepted to IEEE TVCG.

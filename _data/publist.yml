@@ -2,6 +2,50 @@
 
 
 
+- title: "Language Embedded 3D Gaussians for Open-Vocabulary Scene Querying"
+  new: 0
+  image: legaussianv2.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Jin-Chuan Shi, Shao-Hua Guan, Hao-Bin Duan
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: IEEE Transactions on Pattern Analysis and Machine Intelligence (Major Revision)
+  highlight: 1
+  news2:  <b><font color="#9400D3">Extended Version of CVPR 2024</font></b>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 1
+    line: 0
+
+
+- title: "Generating Distance-Aware Human-to-Human Interaction Motions from Text Guidance"
+  new: 0
+  image: gh2h.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jia-Qi Zhang, Jia-Jun Wang, Fang-Lue Zhang, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Technical Report
+  highlight: 1
+  # news2:  <b><font color="#9400D3">Extended Version of CVPR 2024</font></b>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+
+
+
+
+
+
+
 
 - title: "DGM-RDW: Redirected Walking with Dynamic Geometric Mapping Between Environments"
   new: 0
@@ -17,23 +61,79 @@
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
-    note: Preprint
-    show: 1
+    note: Technical Report
+    show: 0
+    line: 0
+
+- title: "Generative Masked Text-to-Motion Model with Hybrid Vector Quantization"
+  new: 0
+  image: HYT2M.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Jia-Qi Zhang, Jia-Jun Wang, Fang-Lue Zhang, Miao Wang*
+  link:
+    url: https://buaavrcg.github.io/SkinnedMotionRetargeting
+    # display: Technical Report
+    display: Technical Report
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2025
+    show: 0
+    line: 0
+
+
+- title: "GC-4DGS: Efficient Geometry-Consistent 4D Gaussian Splatting for Monocular Videos"
+  new: 0
+  image: GC4DGS.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Dong Han, Fu-Cheng Zhang, Fang-Lue Zhang, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Technical Report
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+- title: "SD-4DGS: Monocular Dynamic Scene Rendering using Staged 4D Gaussian Splatting with Spatial Densification"
+  new: 0
+  image: SD4DGS.jpg
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Dong Han, Fu-Cheng Zhang, Rui-Kun Gu, Fang-Lue Zhang, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Technical Report
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
     line: 0
 
 
 
-- title: "Can I Get There? Negotiated User-to-User Teleportations in Social VR"
+- title: "Negotiated User-to-Group Teleportations in Social VR"
   new: 0
-  image: Nego.png
+  image: NegoGroup.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang*, Wen-Tong Shu, Yi-Jun Li, Wanwan Li
+  authors: Wen-Tong Shu, Yi-Jun Li, Hao-Zhong Yang, Frank Steinicke, Miao Wang*
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR 2025), to appear.
+    display: Conditionally Accepted to IEEE Transactions on Visualization and Computer Graphics (IEEE ISMAR 2025 Journal Paper)
   highlight: 1
-  news2: <b><font color="#FF0000">IEEE VR 2025 Best Paper Award</font></b>
+  news2:  <b><font color="#9400D3">This is a follow-up work to our IEEE VR 2025 Best Paper</font></b>
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
@@ -41,15 +141,72 @@
     show: 1
     line: 1
 
+
+- title: "SafeTeleport: Potential Field-Guided Teleportation for Personal Space Protection in Social VR"
+  new: 0
+  image: safeteleport2.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Yi-Jun Li, Sen-Zhe Xu, Wen-Tong Shu, Hao-Zhong Yang, Zi-Nan Han, Miao Wang, Song-Hai Zhang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Conditionally Accepted to IEEE ISMAR 2025
+  highlight: 1
+  news2: <b><font color="#9400D3">This is a follow-up work to our IEEE VR 2025 Best Paper</font></b>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+
+- title: "Exploring the Influence of Crowd Density across Different Tasks on User Performance, Experience and Social Presence in Shared Virtual Environments"
+  new: 0
+  image: density.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Hao-Zhong Yang, Yi-Jun Li, Zi-Nan Han, Wen-Tong Shu, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Conditionally Accepted to IEEE ISMAR 2025
+  highlight: 0
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: Technical Report
+    show: 0
+    line: 0
+
+
+- title: "Can I Get There? Negotiated User-to-User Teleportations in Social VR"
+  new: 0
+  image: Nego.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Wen-Tong Shu, Yi-Jun Li, Wanwan Li
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: IEEE Transactions on Visualization and Computer Graphics, 31 (5), 2320-2330
+  highlight: 1
+  news2: <span style="font-size:20px">&#127942; </span><b><font color="#FF0000">IEEE VR 2025 Best Paper Award</font></b>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2025
+    show: 0
+    line: 0
+
 - title: "GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections"
   new: 0
-  image: GPA.png
+  image: GPAV2.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: Weiqi Feng<sup>&dagger;</sup>, Dong Han<sup>&dagger;</sup>, Zekang Zhou, Shunkai Li, Xiaoqiang Liu, Pengfei Wan, Di ZHANG, Miao Wang*
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: CVPR 2025, Accepted
+    display: IEEE CVPR 2025
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
@@ -68,7 +225,7 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: IEEE Transactions on Visualization and Computer Graphics, to appear.
+    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2025.3525697).
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
@@ -111,7 +268,7 @@
     # display: Technical Report
     display: IEEE Transactions on Visualization and Computer Graphics, 30 (9), 6468-6480.
   highlight: 1
-  news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
+  # news2: <a href = "https://buaavrcg.github.io/PerceptualOutdoorIllumination/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
@@ -143,7 +300,7 @@
   authors: Miao Wang, Ze-Yin Chen, Wen-Chuan Cai and Frank Steinicke
   link:
     url: 
-    display: IEEE Transactions on Visualization and Computer Graphics, 30 (3), 1696 - 1709.
+    display: IEEE Transactions on Visualization and Computer Graphics, 30 (3), 1696-1709.
   highlight: 1
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 

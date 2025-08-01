@@ -73,7 +73,7 @@ Here are my lovely collaborators (and their homepages):
 * [Prof. Song-Hai Zhang @ Tsinghua University](https://scholar.google.com/citations?user=AWtV-EQAAAAJ&hl=en)
 * [Prof. Kun Xu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~kun)
 * [Prof. Tai-Jiang Mu @ Tsinghua University](http://cg.cs.tsinghua.edu.cn/people/~mtj)
-* [Prof. Ariel Shamir @ IDC Herzliya](http://www.faculty.idc.ac.il/arik/site/index.asp)
+* [Prof. Ariel Shamir @ Reichman University](http://www.faculty.idc.ac.il/arik/site/index.asp)
 * [Prof. Ralph Martin @ Cardiff University](https://www.cardiff.ac.uk/people/view/118143-martin-ralph)
 * [Prof. Peter Hall @ University of Bath](http://www.cs.bath.ac.uk/~pmh/start/home.html)
 * [Prof. Frank Steinicke @ Universität Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/steinicke.html)

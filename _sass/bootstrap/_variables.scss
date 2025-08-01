@@ -45,11 +45,13 @@ $link-hover-decoration: underline !default;
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
+//$sans-serif: Montserrat, Helvetica, sans-serif;
+//$serif: $georgia;
 
-$font-family-sans-serif: "HelveticaNeue-Light", arial, 'Optima', 'ale',   "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
-$font-family-serif:   "HelveticaNeue-Light", arial, 'Optima', 'ale', Georgia, "Times New Roman", Times, serif !default;
+$font-family-sans-serif: Montserrat, "HelveticaNeue-Light", arial, 'Optima', 'ale',   "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
+$font-family-serif: Montserrat,  "HelveticaNeue-Light", arial, 'Optima', 'ale', Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
-$font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$font-family-monospace:  Montserrat, Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $font-family-base:        $font-family-sans-serif !default;
 
 $font-size-base:          16px !default; // ~17
@@ -69,7 +71,7 @@ $line-height-base:        1.428571429 !default; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    "HelveticaNeue-Light", arial, 'Optima', 'aleSC'
+$headings-font-family:   Montserrat, "HelveticaNeue-Light", arial, 'Optima', 'aleSC'
 , "HelveticaNeue-Light", "Source Sans Pro", Helvetica, "Helvetica Neue", Lato,  Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif !default;
 //$headings-font-family:    inherit !default;
 $headings-font-weight:    400 !default;
