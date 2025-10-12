@@ -68,12 +68,20 @@ Email: miaow [at] buaa [dot] edu [dot] cn
 
 ##### <span>&#128204;</span> **Short Bio** 
 
+<!-- Professor Miao Wang leads a research group at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. He earned his B.E. from Xidian University (2011) and his Ph.D. from Tsinghua University (2016) under the supervision of Prof. Shi-Min Hu, followed by a postdoctoral fellowship at Tsinghua (2016-2018).
 
-I am a professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [School of Computer Science and Engineering](http://scse.buaa.edu.cn), Beihang University. In 2016-2018, I did postdoc research in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a CSC joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011. 
+His research in immersive XR interaction and visual media computing has resulted in numerous publications in prestigious journals and conferences such as ACM TOG, IEEE TVCG, CVPR, IEEE VR, and IEEE ISMAR. His work's impact is evidenced by recent Best Paper Awards at IEEE VR 2025 and IEEE ISMAR 2025. Prof. Wang contributes significantly to the research community as an Associate Editor for several journals and through his program committee roles for major conferences like IEEE VR and ISMAR. -->
+
+Miao Wang is a Professor at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. His research focuses on immersive interaction for extended reality (XR) and visual media computing. He has published over 50 papers in top-tier venues, including ACM TOG, IEEE TVCG, CVPR, VR, and ISMAR, and has been recognized with Best Paper Awards at IEEE VR 2025 and IEEE ISMAR 2025.
+
+Dr. Wang received his PhD from Tsinghua University in 2016, after which he conducted postdoctoral research there. He contributes actively to the research community as an Associate Editor for several journals including MTAP and CAVW, and through his program committee roles for major conferences like IEEE VR and ISMAR.
+
+<!-- Miao Wang is a Professor at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China. Prior to joining Beihang University, he conducted postdoctoral research at Tsinghua University from 2016 to 2018. He received his Bachelor’s degree from Xidian University in 2011 and his PhD degree from Tsinghua University in 2016 under the supervision of Prof. Shi-Min Hu. His research focuses on immersive interaction techniques in extended reality, and visual media computing. He has published more than 50 papers in prestigious journals and conferences such as ACM TOG, IEEE TVCG, IEEE VR, IEEE ISMAR, IEEE CVPR. He won Best Paper Awards of IEEE VR 2025 and IEEE ISMAR 2025. He served as the Program Co-Chair for ChinaVR 2024 and has been a Program Committee member for IEEE VR and ISMAR since 2021. He is also an Associate Editor for journals including Multimedia Tools and Applications and Computer Animation and Virtual Worlds, etc. -->
+
+<!-- I am a professor with the [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn), [School of Computer Science and Engineering](http://scse.buaa.edu.cn), Beihang University. In 2016-2018, I did postdoc research in [Visual Media Computing](http://cg.cs.tsinghua.edu.cn) at Tsinghua University. I received a PhD degree from Tsinghua University in 2016, supervised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/prof_hu.htm). During 2013-2014, I visited the Visual Computing Group at Cardiff University as a CSC joint PhD student, supervised by [Prof. Ralph Martin](https://www.cardiff.ac.uk/people/view/118143-martin-ralph) and [Prof. Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/). I got a bachelor's degree in Computer Science and Technology from Xidian University in 2011.  -->
 <!-- I am serving on the S&T Program Committee of [ISMAR 2020](http://ismar20.org) and Program Committees of [PG 2020](https://pg2020.org/) and [CVM 2020](http://iccvm.org/2020/). I was a Conference Committee member of [ISMAR 2019](http://ismar19.org) and reviewed technical papers for SIGGRAPH/SIGGRAPH Asia, IEEE VR, ISMAR, Pacific Graphics, CVM conferences, and ACM TOG, IEEE TVCG, Computer Graphics Forum, The Visual Computer, JCST, CVM journals. -->
 <!-- My research goals are to computationally help humans create, explore, and edit visual media, especially for VR/AR.  -->
-<br><br>
-
+<br>
 <span>&#128640;</span> **Recent research interests:**
 
 * 3D AIGC for XR
@@ -136,6 +144,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 ##### <span>&#127942;</span> **Selected Awards** 
 
 +  IEEE VR 2025 Best Paper Award
++  IEEE ISMAR 2025 Best Paper Award
 +  CAD/Graphics 2023 Best Paper Award
 +  CVMJ 2019 Honorable Mention Award
 +  CVMJ 2016 Honorable Mention Award
@@ -144,6 +153,8 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 ##### <span>&#128218;</span> **Academic Services** 
 
++  Associate Editor: Multimedia Tools and Applications (2025-Now), Computer Animation and Virtual Worlds (2024-Now), Journal of Graphics (2023-Now).
++  Youth Editorial Board: Fundamental Research (2024-Now), Frontiers of Computer Science (2022-Now). 
 +  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/), [<u>2024</u>](https://ieeevr.org/2024/), [<u>2025</u>](https://ieeevr.org/2025/)
 +  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/), [<u>2023 (Conference Papers)</u>](https://ismar23.org/), [<u>2024</u>](https://ieeeismar.org/), [<u>2025</u>](https://www.ieeeismar.net/2025/)
 +  Program Committee Member, ACM VRST [<u>2023</u>](https://vrst.acm.org/vrst2023/), [<u>2024</u>](https://vrst.hosting.acm.org/vrst2024/), [<u>2025</u>](https://vrst.acm.org/vrst2025/)
@@ -163,6 +174,9 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 *** -->
 
 ##### <span>&#11088;</span> **Selected Publications** (See [Full Publication List](http://miaowang.me/publications)):
+
++  **[TVCG/ISMAR \'25]** Wen-Tong Shu, Yi-Jun Li, Hao-Zhong Yang, Zi-Nan Han, Frank Steinicke, Miao Wang. 
+Negotiated User-to-Group Teleportations in Social VR. IEEE TVCG 2025.
 
 +  **[TVCG/VR \'25]** Miao Wang, Wen-Tong Shu, Yi-Jun Li, Wanwan Li. 
 Can I Get There? Negotiated User-to-User Teleportations in Social VR. IEEE TVCG 2025.

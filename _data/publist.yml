@@ -130,10 +130,10 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: Conditionally Accepted to IEEE Transactions on Visualization and Computer Graphics (IEEE ISMAR 2025 Journal Paper)
+    display: IEEE Transactions on Visualization and Computer Graphics (IEEE ISMAR 2025 Journal Paper)
   highlight: 1
-  news2:  <b><font color="#9400D3">This is a follow-up work to our IEEE VR 2025 Best Paper</font></b>
-  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  news2: <span style="font-size:20px">&#127942; </span><b><font color="#FF0000">IEEE ISMAR 2025 Best Paper Award</font></b> 
+  # news2: <b><font color="#9400D3">This is a follow-up work to our IEEE VR 2025 Best Paper</font></b>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
@@ -150,9 +150,9 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: Conditionally Accepted to IEEE ISMAR 2025
+    display: IEEE ISMAR 2025
   highlight: 1
-  news2: <b><font color="#9400D3">This is a follow-up work to our IEEE VR 2025 Best Paper</font></b>
+  # news2: <b><font color="#9400D3">This is a follow-up work to our IEEE VR 2025 Best Paper</font></b>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
@@ -169,7 +169,7 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: Conditionally Accepted to IEEE ISMAR 2025
+    display: IEEE ISMAR 2025
   highlight: 0
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
@@ -180,23 +180,6 @@
     line: 0
 
 
-- title: "Can I Get There? Negotiated User-to-User Teleportations in Social VR"
-  new: 0
-  image: Nego.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: Miao Wang, Wen-Tong Shu, Yi-Jun Li, Wanwan Li
-  link:
-    # url: 
-    # display: https://arxiv.org/abs/2311.18482
-    display: IEEE Transactions on Visualization and Computer Graphics, 31 (5), 2320-2330
-  highlight: 1
-  news2: <span style="font-size:20px">&#127942; </span><b><font color="#FF0000">IEEE VR 2025 Best Paper Award</font></b>
-  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-  year: 
-    note: 2025
-    show: 0
-    line: 0
 
 - title: "GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections"
   new: 0
@@ -225,7 +208,7 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2025.3525697).
+    display: IEEE Transactions on Visualization and Computer Graphics, 31 (10), 6633 - 6647
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
@@ -243,7 +226,7 @@
   link:
     url: https://buaavrcg.github.io/SkinnedMotionRetargeting
     # display: Technical Report
-    display: IEEE Transactions on Visualization and Computer Graphics, Early Access (DOI:10.1109/TVCG.2024.3423426)).
+    display: IEEE Transactions on Visualization and Computer Graphics, 31 (9), 4923-4936
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
@@ -254,7 +237,23 @@
     line: 0
 
 
-
+- title: "Can I Get There? Negotiated User-to-User Teleportations in Social VR"
+  new: 0
+  image: Nego.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Miao Wang, Wen-Tong Shu, Yi-Jun Li, Wanwan Li
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: IEEE Transactions on Visualization and Computer Graphics, 31 (5), 2320-2330
+  highlight: 1
+  news2: <span style="font-size:20px">&#127942; </span><b><font color="#FF0000">IEEE VR 2025 Best Paper Award</font></b>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2025
+    show: 0
+    line: 0
 
 
 
