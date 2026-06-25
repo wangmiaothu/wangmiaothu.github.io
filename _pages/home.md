@@ -74,7 +74,7 @@ His research in immersive XR interaction and visual media computing has resulted
 
 Miao Wang is a Professor at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University. His research focuses on immersive interaction for extended reality (XR) and visual media computing. He has published over 50 papers in top-tier venues, including ACM TOG, IEEE TVCG, CVPR, VR, and ISMAR, and has been recognized with Best Paper Awards at IEEE VR 2025 and IEEE ISMAR 2025.
 
-Dr. Wang received his PhD from Tsinghua University in 2016, after which he conducted postdoctoral research there. He contributes actively to the research community as an Associate Editor for several journals including MTAP and CAVW, and through his program committee roles for major conferences like IEEE VR and ISMAR.
+Dr. Wang received his PhD from Tsinghua University in 2016, after which he conducted postdoctoral research there. He contributes actively to the research community as an Associate Editor for several journals including IEEE TVCG and CAVW, and through his program committee roles for major conferences like IEEE VR and ISMAR.
 
 <!-- Miao Wang is a Professor at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China. Prior to joining Beihang University, he conducted postdoctoral research at Tsinghua University from 2016 to 2018. He received his Bachelor’s degree from Xidian University in 2011 and his PhD degree from Tsinghua University in 2016 under the supervision of Prof. Shi-Min Hu. His research focuses on immersive interaction techniques in extended reality, and visual media computing. He has published more than 50 papers in prestigious journals and conferences such as ACM TOG, IEEE TVCG, IEEE VR, IEEE ISMAR, IEEE CVPR. He won Best Paper Awards of IEEE VR 2025 and IEEE ISMAR 2025. He served as the Program Co-Chair for ChinaVR 2024 and has been a Program Committee member for IEEE VR and ISMAR since 2021. He is also an Associate Editor for journals including Multimedia Tools and Applications and Computer Animation and Virtual Worlds, etc. -->
 
@@ -153,8 +153,9 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 ##### <span>&#128218;</span> **Academic Services** 
 
-+  Associate Editor: Multimedia Tools and Applications (2025-Now), Computer Animation and Virtual Worlds (2024-Now), Journal of Graphics (2023-Now).
++  Associate Editor: IEEE Transactions on Visualization and Computer Graphics (2025-Now), Computer Animation and Virtual Worlds (2024-Now).
 +  Youth Editorial Board: Fundamental Research (2024-Now), Frontiers of Computer Science (2022-Now). 
++  Associate Paper Co-chair, IEEE ISMAR 2026
 +  Program Committee Member, IEEE VR [<u>2021 (Conference Papers)</u>](https://ieeevr.org/2021/), [<u>2022 (Conference Papers)</u>](https://ieeevr.org/2022/), [<u>2023</u>](https://ieeevr.org/2023/), [<u>2024</u>](https://ieeevr.org/2024/), [<u>2025</u>](https://ieeevr.org/2025/)
 +  Program Committee Member, IEEE ISMAR [<u>2020</u>](https://ismar20.org/), [<u>2021 (Conference Papers)</u>](https://ismar21.org/), [<u>2022 (Journal and Conference Papers)</u>](https://ismar2022.org/), [<u>2023 (Conference Papers)</u>](https://ismar23.org/), [<u>2024</u>](https://ieeeismar.org/), [<u>2025</u>](https://www.ieeeismar.net/2025/)
 +  Program Committee Member, ACM VRST [<u>2023</u>](https://vrst.acm.org/vrst2023/), [<u>2024</u>](https://vrst.hosting.acm.org/vrst2024/), [<u>2025</u>](https://vrst.acm.org/vrst2025/)
