@@ -8,13 +8,13 @@
   link:
     url: https://buaavrcg.github.io/SkinnedMotionRetargeting
     # display: Technical Report
-    display: Frontiers of Computer Science, 2026
+    display: Frontiers of Computer Science, 21 (4), 2104701, 2027
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/SkinnedMotionRetargeting/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
   year: 
-    note: Preprint
+    note: 2027
     show: 1
     line: 0
     
@@ -46,7 +46,7 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display: IEEE ISMAR 2026, Accepted.
+    display: IEEE ISMAR 2026
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
@@ -93,23 +93,59 @@
 #     line: 0
 
 
-# - title: "GC-4DGS: Efficient Geometry-Consistent 4D Gaussian Splatting for Monocular Videos"
-#   new: 0
-#   image: GC4DGS.png
-#   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-#   authors: Dong Han, Fu-Cheng Zhang, Fang-Lue Zhang, Miao Wang*
-#   link:
-#     # url: 
-#     # display: https://arxiv.org/abs/2311.18482
-#     display: Technical Report
-#   highlight: 1
-#   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
-#   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
-#   # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
-#   year: 
-#     note: Technical Report
-#     show: 0
-#     line: 0
+- title: "GC-4DGS: Efficient Geometry-Consistent 4D Gaussian Splatting for Monocular Videos"
+  new: 0
+  image: GC4DGS.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Dong Han, Fu-Cheng Zhang, Fang-Lue Zhang, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display: Virtual Reality & Intelligent Hardware, 2026
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2026
+    show: 0
+    line: 0
+
+- title: "PanoTask: Task-Driven Panoramic Video Generation with Scene-Aware Autoregressive Camera Trajectory Prediction"
+  new: 0
+  image: panotask.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Dong Han, Jia-Hao Zhang, Jia-Jun Wang, Fang-Lue Zhang, Ariel Shamir, Miao Wang*
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display:  ACM Multimedia 2026
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2026
+    show: 0
+    line: 0
+
+- title: "Physics-Based Character Control with Biomechanical Compensation for Injured Motion"
+  new: 0
+  image: biocontrol.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: Chun-Hao Tao, Miao Wang*, Xiao-Nan Fang, Yue Qi
+  link:
+    # url: 
+    # display: https://arxiv.org/abs/2311.18482
+    display:  ACM Multimedia 2026
+  highlight: 1
+  # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
+  # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
+  # news2: <a href = "">PDF</a> | <a href = "">BibTeX</a> 
+  year: 
+    note: 2026
+    show: 0
+    line: 0
 
 - title: "SD‐4DGS: Reconstructing Dynamic Scenes From Monocular Video via Spatial Densification of 4D Gaussians"
   new: 0
@@ -119,7 +155,7 @@
   link:
     # url: 
     # display: https://arxiv.org/abs/2311.18482
-    display:  Computer Graphics Forum
+    display:  Computer Graphics Forum, 2026
   highlight: 1
   # news2: <a href = "https://buaavrcg.github.io/LEGaussians/">Project Page</a>
   # news2: <a href = "../papers/advp_authors.pdf">PDF</a> | <a href = "../papers/transitioning360.bib">BibTeX</a> | <a href = "https://github.com/xinwen-cs/AudioDVP">Code</a>
